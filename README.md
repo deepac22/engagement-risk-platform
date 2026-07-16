@@ -14,7 +14,7 @@
 ## 📸 Demo
 
 <div align="center">
-  <img src="images/dashboard_screenshot.png" alt="Dashboard Overview" width="800"/>
+  <img src="images/dashboard.png" alt="Dashboard Overview" width="800"/>
   <br>
   <em>Figure 1: Real-time risk monitoring dashboard with KPI metrics and risk distribution charts</em>
 </div>
@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img src="images/semantic_search_demo.gif" alt="Semantic Search Demo" width="800"/>
+  <img src="images/semantic_search.png" alt="Semantic Search Demo" width="800"/>
   <br>
   <em>Figure 2: AI-powered semantic search with natural language queries</em>
 </div>
