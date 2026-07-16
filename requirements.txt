@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+plotly
+requests
+python-dotenv
+langchain-groq
+langchain-core
+chromadb
+faker
+scikit-learn

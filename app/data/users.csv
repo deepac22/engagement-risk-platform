@@ -1,0 +1,1001 @@
+user_id,age,state,median_income,segment,join_date,total_spend,visit_frequency,avg_session_time,game_types,risk_score,risk_level
+1,26,South Carolina,59318,Regular,2026-04-02,134.8,9,21.0,Bingo,7,Low
+2,56,Colorado,82254,Regular,2024-01-02,2115.39,1,31.8,"Slots, Table Games, Sports",42,Medium
+3,63,South Dakota,66143,VIP,2023-08-21,2729.26,8,37.0,Table Games,59,Medium
+4,46,Utah,79449,Frequent,2024-09-13,1707.85,5,16.8,"Slots, Sports",21,Low
+5,57,Michigan,63498,High-Value,2024-07-28,1329.96,2,66.7,"Slots, Sports",48,Medium
+6,58,South Carolina,59318,Regular,2024-06-24,4428.4,12,86.0,Table Games,38,Medium
+7,37,Wisconsin,67125,Casual,2024-02-15,4926.26,28,48.7,"Sports, Table Games",27,Low
+8,41,Minnesota,77720,Casual,2023-12-20,1055.44,9,75.1,Bingo,37,Medium
+9,34,Virginia,80963,VIP,2026-05-30,825.38,13,30.3,"Slots, Table Games",0,Low
+10,70,Arizona,69056,Regular,2025-11-07,1584.11,9,110.0,"Sports, Table Games, Bingo",32,Medium
+11,44,New Mexico,53992,Regular,2023-11-26,4424.57,21,35.5,Bingo,34,Medium
+12,35,North Dakota,66519,VIP,2026-01-16,3737.6,14,50.9,Table Games,48,Medium
+13,50,New York,74314,Casual,2025-04-29,463.64,2,22.6,Poker,37,Medium
+14,23,Pennsylvania,68957,VIP,2023-09-01,1929.99,20,33.9,"Slots, Bingo, Sports",34,Medium
+15,67,North Dakota,66519,Casual,2023-08-29,1341.46,21,38.8,Poker,30,Medium
+16,65,Alabama,53913,Regular,2023-12-06,4380.51,9,63.4,Sports,61,High
+17,51,South Carolina,59318,Regular,2024-06-17,3048.76,5,67.0,"Slots, Sports, Table Games",41,Medium
+18,26,Puerto Rico,22237,Frequent,2024-07-09,4646.2,29,32.5,Bingo,56,Medium
+19,24,Colorado,82254,VIP,2025-09-06,3662.22,27,93.1,Poker,37,Medium
+20,29,Ohio,62262,High-Value,2026-02-03,1332.63,28,115.9,"Table Games, Sports, Bingo",24,Low
+21,60,Tennessee,59695,High-Value,2023-08-24,1873.37,29,18.9,Slots,21,Low
+22,20,Massachusetts,89645,Regular,2025-12-01,2945.66,8,5.8,"Slots, Table Games, Bingo",63,High
+23,74,Arizona,69056,Frequent,2024-05-17,1658.84,17,81.9,Bingo,27,Low
+24,65,District of Columbia,90088,High-Value,2026-04-18,4678.22,19,32.9,"Poker, Table Games",53,Medium
+25,25,Connecticut,83771,High-Value,2026-07-07,3298.32,12,58.7,"Slots, Bingo, Poker",33,Medium
+26,65,Missouri,61847,Regular,2025-11-06,1703.12,28,27.0,"Poker, Table Games, Bingo",23,Low
+27,36,Hawaii,84857,Casual,2025-04-25,2318.51,28,56.0,"Slots, Bingo, Sports",49,Medium
+28,72,North Dakota,66519,Regular,2024-06-20,83.64,3,24.1,"Poker, Table Games",54,Medium
+29,22,Missouri,61847,Frequent,2025-06-10,831.54,1,111.5,"Sports, Poker",37,Medium
+30,65,Utah,79449,High-Value,2026-01-14,4977.16,18,22.8,"Table Games, Slots",56,Medium
+31,66,Oregon,71562,Casual,2024-09-18,2715.55,24,10.8,"Bingo, Table Games",45,Medium
+32,51,Arkansas,52528,VIP,2023-07-24,409.76,6,12.8,Poker,2,Low
+33,75,Delaware,71091,Casual,2024-03-18,2852.68,19,76.2,"Bingo, Sports",54,Medium
+34,32,Kansas,64124,Frequent,2026-07-02,3351.93,11,50.5,"Sports, Poker, Table Games",27,Low
+35,23,West Virginia,51248,Casual,2025-04-30,56.48,20,13.4,Bingo,23,Low
+36,27,Kansas,64124,Regular,2024-12-23,4666.96,29,47.5,Poker,22,Low
+37,64,North Dakota,66519,VIP,2024-09-17,1519.56,26,5.9,"Sports, Slots, Poker",40,Medium
+38,26,Kansas,64124,Regular,2024-03-11,4449.67,24,36.3,"Table Games, Sports, Slots",37,Medium
+39,59,Texas,66963,Frequent,2024-06-12,4266.03,17,109.1,Slots,35,Medium
+40,46,South Carolina,59318,Frequent,2024-12-17,4148.45,2,93.7,"Sports, Table Games, Bingo",40,Medium
+41,54,Nevada,66274,Casual,2023-12-19,3531.28,18,13.7,"Table Games, Slots, Bingo",20,Low
+42,54,Oregon,71562,Frequent,2023-12-05,748.99,5,46.9,Sports,1,Low
+43,62,Illinois,72205,VIP,2025-02-23,1255.15,4,106.7,"Bingo, Table Games",51,Medium
+44,74,Iowa,65600,Regular,2023-12-11,820.88,26,106.4,Table Games,30,Medium
+45,40,Washington,84247,Regular,2025-01-21,3914.11,14,35.7,"Slots, Poker, Bingo",45,Medium
+46,33,New Jersey,89296,Frequent,2024-12-29,1005.87,30,40.1,Table Games,19,Low
+47,61,Puerto Rico,22237,Casual,2026-02-05,973.72,11,116.2,"Sports, Poker",23,Low
+48,72,Texas,66963,Frequent,2024-08-27,2685.72,1,25.5,"Slots, Bingo",58,Medium
+49,46,Pennsylvania,68957,High-Value,2023-09-19,1734.98,26,74.7,"Slots, Poker, Sports",15,Low
+50,35,Idaho,66474,VIP,2025-06-26,231.49,14,111.4,"Table Games, Sports, Bingo",0,Low
+51,61,California,84907,Casual,2025-10-24,4604.65,20,87.8,"Bingo, Sports",45,Medium
+52,45,Tennessee,59695,VIP,2024-01-23,1637.65,23,19.6,"Poker, Table Games",14,Low
+53,55,Rhode Island,74008,Casual,2025-02-21,1511.74,18,39.9,Poker,31,Medium
+54,56,Wyoming,65204,High-Value,2023-11-13,3037.24,11,55.8,Bingo,34,Medium
+55,69,New Jersey,89296,Regular,2025-11-17,4506.89,26,80.8,"Bingo, Sports",58,Medium
+56,71,Colorado,82254,Frequent,2024-10-11,4760.48,8,30.8,Table Games,66,High
+57,21,Puerto Rico,22237,Casual,2026-03-16,1231.76,16,57.4,"Bingo, Table Games, Sports",49,Medium
+58,43,Utah,79449,Casual,2026-02-28,2476.94,8,107.7,Poker,34,Medium
+59,30,Indiana,62743,High-Value,2025-01-25,4022.51,23,10.8,Slots,36,Medium
+60,27,New Hampshire,88465,VIP,2025-12-26,4009.07,22,73.5,"Bingo, Poker",36,Medium
+61,47,Ohio,62262,High-Value,2024-05-07,4487.07,24,56.8,Sports,47,Medium
+62,68,Wisconsin,67125,Frequent,2026-07-12,2611.29,21,55.6,"Sports, Table Games, Poker",42,Medium
+63,39,Massachusetts,89645,Regular,2023-10-30,4466.2,3,31.6,"Table Games, Bingo, Slots",44,Medium
+64,45,Montana,63249,Casual,2023-09-23,1661.1,15,28.8,"Poker, Slots",18,Low
+65,55,West Virginia,51248,Frequent,2026-05-06,1908.1,1,39.3,"Poker, Table Games",55,Medium
+66,33,New Mexico,53992,High-Value,2024-07-02,1371.95,16,43.7,"Poker, Table Games, Bingo",5,Low
+67,58,District of Columbia,90088,VIP,2024-10-05,2675.28,30,69.9,Slots,32,Medium
+68,46,South Dakota,66143,Casual,2023-11-14,687.14,15,34.9,"Table Games, Poker",0,Low
+69,40,Maryland,90203,High-Value,2024-07-09,3808.54,13,34.0,Poker,28,Low
+70,66,Puerto Rico,22237,Casual,2023-12-17,2701.7,12,94.8,"Slots, Bingo, Poker",52,Medium
+71,72,Idaho,66474,Regular,2025-02-23,111.7,5,59.5,Bingo,22,Low
+72,48,Illinois,72205,Regular,2024-09-17,3500.33,25,74.7,"Slots, Table Games, Poker",31,Medium
+73,56,Connecticut,83771,High-Value,2025-06-17,138.14,10,50.6,"Table Games, Slots, Sports",8,Low
+74,72,Utah,79449,Frequent,2026-03-27,3139.94,4,102.8,"Slots, Bingo, Table Games",77,High
+75,46,North Dakota,66519,Frequent,2025-01-30,3310.99,3,6.5,"Poker, Slots",56,Medium
+76,42,Nebraska,66817,Regular,2024-03-22,3181.57,27,55.1,"Bingo, Sports, Poker",34,Medium
+77,53,Alaska,77845,VIP,2025-02-08,3875.46,15,35.9,Slots,33,Medium
+78,75,Kentucky,55573,VIP,2025-01-15,2259.5,25,75.2,"Sports, Slots",49,Medium
+79,73,New Mexico,53992,Frequent,2024-06-03,1631.82,16,96.8,"Sports, Bingo",26,Low
+80,19,Ohio,62262,Regular,2026-05-20,2587.97,7,87.8,"Bingo, Table Games",47,Medium
+81,49,Utah,79449,Casual,2024-08-31,3233.06,16,15.7,Poker,34,Medium
+82,34,Utah,79449,High-Value,2026-07-08,1537.97,19,68.6,"Poker, Sports",16,Low
+83,63,Michigan,63498,Regular,2026-06-09,2274.19,10,18.9,Sports,43,Medium
+84,66,Delaware,71091,Regular,2026-04-15,2683.96,25,27.0,"Poker, Sports, Bingo",57,Medium
+85,67,Oregon,71562,Regular,2023-11-01,2627.94,10,39.1,"Table Games, Sports",38,Medium
+86,64,Alabama,53913,Casual,2026-02-14,2675.33,9,68.6,"Table Games, Poker, Slots",46,Medium
+87,55,Alabama,53913,Frequent,2026-03-26,1428.85,16,26.2,Sports,19,Low
+88,26,New Jersey,89296,Casual,2024-04-04,4112.36,13,71.4,"Slots, Table Games, Bingo",35,Medium
+89,55,Alaska,77845,Casual,2025-10-20,4746.14,3,69.2,"Bingo, Table Games",47,Medium
+90,52,Wisconsin,67125,Frequent,2024-07-28,1908.09,30,103.9,"Sports, Slots",19,Low
+91,66,Rhode Island,74008,Regular,2024-03-23,505.18,25,35.4,Table Games,11,Low
+92,30,Iowa,65600,High-Value,2025-07-01,2764.44,6,56.8,"Poker, Sports, Slots",30,Medium
+93,37,Indiana,62743,High-Value,2025-02-22,3537.71,23,13.2,Sports,47,Medium
+94,69,Wyoming,65204,Regular,2024-09-05,3129.04,22,53.9,"Table Games, Bingo, Poker",60,High
+95,23,Florida,63062,VIP,2026-04-03,307.59,26,91.1,"Sports, Poker, Slots",14,Low
+96,63,New Hampshire,88465,Frequent,2026-06-17,1527.42,13,62.6,"Poker, Slots",50,Medium
+97,21,Pennsylvania,68957,VIP,2025-11-25,4448.22,24,33.8,Table Games,45,Medium
+98,72,Texas,66963,Casual,2024-06-19,4303.98,19,120.0,"Sports, Slots, Poker",65,High
+99,52,New Jersey,89296,Regular,2026-06-11,3261.03,30,119.6,"Poker, Slots",28,Low
+100,41,New Jersey,89296,Casual,2024-11-28,2047.66,11,103.6,"Poker, Bingo",41,Medium
+101,61,Louisiana,52087,VIP,2023-10-08,4726.52,27,9.2,Sports,59,Medium
+102,39,Kansas,64124,VIP,2024-07-03,588.45,25,99.9,Bingo,2,Low
+103,45,New Hampshire,88465,VIP,2023-09-01,280.48,17,92.0,"Poker, Slots, Bingo",1,Low
+104,54,Kentucky,55573,High-Value,2024-11-15,663.76,10,19.0,"Bingo, Table Games, Sports",4,Low
+105,38,Georgia,66559,Casual,2025-03-28,2758.69,18,30.8,Poker,33,Medium
+106,60,Delaware,71091,Frequent,2024-09-01,4162.39,16,63.5,"Poker, Bingo",49,Medium
+107,34,New Jersey,89296,Regular,2023-10-24,2289.36,5,111.0,"Table Games, Slots, Bingo",42,Medium
+108,69,Wisconsin,67125,VIP,2024-06-05,4273.52,11,35.7,Sports,64,High
+109,38,Virginia,80963,High-Value,2025-12-11,4189.0,19,104.5,"Bingo, Poker",41,Medium
+110,40,Michigan,63498,High-Value,2024-11-13,2764.07,18,112.3,Table Games,32,Medium
+111,43,Oklahoma,55826,Casual,2024-06-08,1175.48,25,41.6,"Poker, Bingo",18,Low
+112,69,Tennessee,59695,Casual,2026-04-27,4105.53,5,19.5,"Sports, Slots, Table Games",60,High
+113,52,Connecticut,83771,Regular,2025-08-27,4553.1,1,52.1,"Table Games, Slots, Bingo",63,High
+114,35,Wyoming,65204,Casual,2025-03-19,1699.42,23,103.0,"Bingo, Poker, Table Games",17,Low
+115,64,South Carolina,59318,VIP,2026-04-07,4438.32,16,9.1,Table Games,62,High
+116,62,South Carolina,59318,Casual,2025-06-25,4605.44,8,54.9,Slots,68,High
+117,29,Nevada,66274,Casual,2024-02-20,3473.07,29,42.3,Sports,20,Low
+118,42,Michigan,63498,High-Value,2024-08-28,2159.13,8,70.1,Table Games,46,Medium
+119,24,Hawaii,84857,Regular,2024-02-15,3051.36,13,62.2,"Table Games, Bingo, Poker",54,Medium
+120,35,South Carolina,59318,High-Value,2024-07-31,2303.26,22,108.6,"Bingo, Table Games, Slots",20,Low
+121,41,Nevada,66274,High-Value,2025-12-02,4938.38,10,84.4,"Sports, Table Games",40,Medium
+122,73,Mississippi,48716,VIP,2025-10-28,2421.21,8,46.3,"Sports, Slots",67,High
+123,44,Tennessee,59695,Casual,2024-08-25,1379.66,19,109.7,"Poker, Sports, Slots",32,Medium
+124,70,Pennsylvania,68957,VIP,2026-01-07,1768.08,21,33.8,"Table Games, Slots, Sports",26,Low
+125,21,South Dakota,66143,VIP,2025-05-09,1551.58,15,47.0,Slots,21,Low
+126,39,Louisiana,52087,Regular,2026-01-05,3739.93,6,95.4,"Bingo, Sports",36,Medium
+127,35,Georgia,66559,Frequent,2025-03-25,4571.1,16,90.9,"Slots, Poker",50,Medium
+128,28,California,84907,High-Value,2025-01-26,3773.22,8,116.2,"Sports, Slots, Table Games",57,Medium
+129,35,Alabama,53913,Frequent,2024-06-18,2687.5,15,72.2,"Sports, Slots, Bingo",31,Medium
+130,49,Indiana,62743,VIP,2024-02-13,134.87,29,42.7,"Table Games, Slots, Sports",20,Low
+131,63,New Hampshire,88465,Regular,2025-09-12,1517.93,14,10.2,Sports,23,Low
+132,26,New Mexico,53992,Regular,2025-08-18,494.99,29,49.7,"Bingo, Poker",7,Low
+133,66,Oregon,71562,Casual,2023-12-02,3635.73,29,100.9,"Poker, Sports, Slots",48,Medium
+134,42,Utah,79449,Regular,2023-09-25,1094.18,15,103.4,Sports,35,Medium
+135,60,North Dakota,66519,Regular,2023-12-31,1799.78,13,116.3,"Slots, Table Games",13,Low
+136,59,South Dakota,66143,Frequent,2024-03-07,2989.76,1,33.0,Bingo,41,Medium
+137,23,Illinois,72205,VIP,2026-03-14,4150.79,18,29.8,Sports,41,Medium
+138,28,Wisconsin,67125,Frequent,2024-03-18,3945.33,20,103.7,Table Games,20,Low
+139,35,North Dakota,66519,Casual,2026-06-05,3994.58,4,20.2,"Table Games, Sports",61,High
+140,30,Puerto Rico,22237,High-Value,2025-04-29,1334.18,5,65.5,"Slots, Poker, Table Games",48,Medium
+141,42,Wisconsin,67125,VIP,2026-01-25,2571.06,4,30.5,"Slots, Sports, Table Games",54,Medium
+142,20,South Dakota,66143,High-Value,2023-10-20,313.52,16,54.0,Poker,32,Medium
+143,47,Vermont,72431,VIP,2025-03-02,376.72,3,22.1,Sports,20,Low
+144,59,Rhode Island,74008,High-Value,2025-02-25,2930.97,23,119.4,"Sports, Poker, Bingo",30,Medium
+145,46,Pennsylvania,68957,VIP,2026-01-24,504.9,23,87.9,Poker,0,Low
+146,75,Nevada,66274,High-Value,2025-07-10,1150.18,11,50.9,"Slots, Sports, Table Games",46,Medium
+147,61,Maryland,90203,High-Value,2025-10-12,1281.9,5,12.7,Slots,51,Medium
+148,25,Nebraska,66817,Regular,2024-08-07,3725.5,12,69.0,"Bingo, Sports, Poker",45,Medium
+149,45,Delaware,71091,High-Value,2025-11-19,1774.45,22,104.8,"Slots, Sports, Poker",35,Medium
+150,41,Maine,64767,Regular,2023-07-31,526.97,17,80.5,Slots,0,Low
+151,73,Michigan,63498,Frequent,2026-06-04,2785.76,4,71.0,"Bingo, Slots",79,High
+152,61,Pennsylvania,68957,Regular,2024-01-07,4149.01,9,36.4,"Sports, Bingo",45,Medium
+153,30,Alabama,53913,High-Value,2026-06-07,4350.61,19,13.0,"Slots, Bingo, Sports",41,Medium
+154,32,North Carolina,61972,Regular,2025-10-25,1887.21,15,47.6,"Sports, Slots, Poker",15,Low
+155,29,Florida,63062,Casual,2024-08-31,3774.64,2,36.3,"Poker, Bingo, Sports",61,High
+156,45,Nevada,66274,Casual,2026-04-04,1373.1,25,44.7,Sports,21,Low
+157,62,Texas,66963,Frequent,2024-12-23,2969.74,17,10.2,"Bingo, Slots",56,Medium
+158,32,Alabama,53913,Regular,2024-01-03,1514.08,7,92.9,"Sports, Slots",39,Medium
+159,50,Alabama,53913,High-Value,2024-10-11,3737.6,6,66.2,Bingo,34,Medium
+160,72,Ohio,62262,High-Value,2025-05-19,3343.56,12,104.1,Poker,37,Medium
+161,48,Puerto Rico,22237,VIP,2024-03-15,4606.6,28,54.4,"Poker, Sports",40,Medium
+162,44,Delaware,71091,VIP,2025-06-17,114.07,11,57.9,"Sports, Slots, Table Games",0,Low
+163,34,Connecticut,83771,Casual,2023-07-19,2184.03,13,50.5,"Sports, Table Games",36,Medium
+164,68,Massachusetts,89645,Casual,2024-08-26,848.98,17,66.0,Sports,25,Low
+165,65,Michigan,63498,Regular,2025-08-29,4791.53,21,32.2,Sports,61,High
+166,30,Idaho,66474,Casual,2024-04-16,3015.97,25,25.4,"Poker, Bingo, Sports",44,Medium
+167,56,West Virginia,51248,VIP,2025-09-09,2250.04,30,78.9,"Sports, Bingo, Slots",48,Medium
+168,23,Nevada,66274,Frequent,2023-12-26,2349.92,21,73.0,"Bingo, Slots",44,Medium
+169,48,Maine,64767,Frequent,2026-03-11,2265.05,2,13.8,Bingo,51,Medium
+170,51,Pennsylvania,68957,Casual,2024-10-19,1928.57,19,56.7,"Table Games, Sports, Poker",22,Low
+171,51,New Jersey,89296,Casual,2026-04-01,762.8,2,98.3,"Slots, Table Games",24,Low
+172,34,Arizona,69056,VIP,2025-09-09,3541.03,15,75.1,"Sports, Bingo",36,Medium
+173,45,Mississippi,48716,Casual,2026-02-14,3874.58,22,95.8,"Sports, Slots, Table Games",49,Medium
+174,54,Connecticut,83771,VIP,2024-05-17,3395.11,10,105.4,"Slots, Table Games",28,Low
+175,38,Michigan,63498,High-Value,2024-03-07,4838.81,23,19.8,"Slots, Sports, Poker",41,Medium
+176,60,Mississippi,48716,VIP,2025-02-13,3960.39,27,15.7,"Poker, Sports, Slots",34,Medium
+177,38,Minnesota,77720,High-Value,2024-03-20,909.51,7,27.1,Table Games,10,Low
+178,37,California,84907,VIP,2025-10-28,4223.7,4,101.0,"Slots, Sports, Poker",56,Medium
+179,57,District of Columbia,90088,VIP,2025-10-14,1889.83,6,98.0,Poker,20,Low
+180,45,Arizona,69056,High-Value,2023-07-14,1827.85,24,75.2,"Poker, Table Games, Sports",12,Low
+181,38,Iowa,65600,Regular,2026-01-29,4828.33,26,47.3,"Poker, Bingo, Table Games",35,Medium
+182,43,Wisconsin,67125,Regular,2024-11-28,2519.5,14,98.9,"Table Games, Sports, Slots",50,Medium
+183,49,South Dakota,66143,Casual,2025-08-11,4371.84,18,86.8,"Slots, Sports, Bingo",49,Medium
+184,29,West Virginia,51248,Regular,2023-08-13,1371.23,29,100.6,Table Games,21,Low
+185,75,Nevada,66274,Casual,2024-01-03,1754.43,1,50.6,"Table Games, Poker",53,Medium
+186,42,Colorado,82254,Casual,2025-01-27,1130.45,11,101.5,"Sports, Table Games, Slots",34,Medium
+187,37,Arizona,69056,Regular,2024-11-02,4587.81,16,92.3,"Poker, Slots",42,Medium
+188,20,Colorado,82254,VIP,2024-07-19,1287.06,27,113.1,"Bingo, Poker, Slots",24,Low
+189,37,Wisconsin,67125,Regular,2023-10-11,1195.82,4,53.3,"Poker, Slots, Bingo",26,Low
+190,57,New Mexico,53992,VIP,2024-07-22,2684.91,21,32.8,Sports,36,Medium
+191,19,Nebraska,66817,High-Value,2025-12-11,3077.9,8,26.5,"Slots, Sports, Bingo",63,High
+192,53,North Carolina,61972,Casual,2023-11-13,2541.57,17,49.9,"Slots, Poker",37,Medium
+193,35,Minnesota,77720,Casual,2023-11-24,3739.11,12,44.7,"Slots, Sports, Bingo",45,Medium
+194,41,Arizona,69056,Regular,2025-08-06,2734.61,27,100.5,"Poker, Bingo, Sports",40,Medium
+195,70,Hawaii,84857,High-Value,2023-10-29,682.91,23,9.3,Slots,29,Low
+196,31,Wyoming,65204,Frequent,2025-10-18,4430.09,11,64.3,"Poker, Sports, Slots",49,Medium
+197,60,West Virginia,51248,Casual,2024-01-25,963.61,12,104.6,"Sports, Slots",17,Low
+198,42,Alaska,77845,High-Value,2024-01-29,2190.39,13,107.9,"Sports, Table Games",43,Medium
+199,63,New Mexico,53992,VIP,2026-05-03,2492.64,30,35.7,Poker,60,High
+200,46,Colorado,82254,VIP,2025-07-21,3016.24,27,38.8,Slots,25,Low
+201,61,Maryland,90203,High-Value,2025-11-14,1485.24,15,24.2,"Sports, Poker",39,Medium
+202,65,Arizona,69056,High-Value,2024-03-26,4351.49,12,36.6,Slots,54,Medium
+203,59,Tennessee,59695,Regular,2024-08-28,2036.99,17,114.6,Bingo,45,Medium
+204,69,Texas,66963,Regular,2025-10-10,2196.48,5,94.5,"Sports, Poker",47,Medium
+205,21,Oklahoma,55826,Frequent,2026-02-10,3029.42,22,47.8,Bingo,49,Medium
+206,52,District of Columbia,90088,Frequent,2025-05-01,1841.08,11,33.7,Slots,25,Low
+207,30,Washington,84247,VIP,2024-06-07,2500.23,13,18.5,"Poker, Table Games",49,Medium
+208,37,Rhode Island,74008,Casual,2025-10-28,3472.96,16,20.6,Poker,26,Low
+209,64,Hawaii,84857,Frequent,2026-06-19,2231.1,3,81.8,"Slots, Sports, Table Games",80,High
+210,64,Georgia,66559,Regular,2024-05-21,3550.72,23,96.3,"Table Games, Slots, Poker",55,Medium
+211,27,Wyoming,65204,Frequent,2024-11-09,1191.31,16,68.7,"Poker, Table Games",5,Low
+212,75,Rhode Island,74008,High-Value,2025-03-24,440.22,10,65.5,"Bingo, Slots",17,Low
+213,39,District of Columbia,90088,VIP,2026-05-22,3215.27,15,44.6,"Bingo, Table Games, Slots",34,Medium
+214,51,Nebraska,66817,Casual,2026-04-18,4554.45,2,64.6,"Table Games, Bingo",66,High
+215,64,Maryland,90203,Frequent,2025-02-13,1135.1,17,102.3,"Table Games, Sports",48,Medium
+216,59,District of Columbia,90088,VIP,2025-05-24,1521.09,18,78.7,"Bingo, Table Games, Slots",7,Low
+217,58,Tennessee,59695,VIP,2025-09-25,3605.96,20,9.7,Slots,30,Medium
+218,60,Arizona,69056,Regular,2025-06-14,3857.4,9,93.2,"Bingo, Slots",50,Medium
+219,75,New Mexico,53992,Frequent,2024-01-17,3139.55,10,60.5,"Poker, Sports, Table Games",55,Medium
+220,63,California,84907,High-Value,2024-08-02,308.97,15,58.4,"Bingo, Table Games",18,Low
+221,74,Maryland,90203,Frequent,2024-06-27,3594.63,24,117.2,Sports,62,High
+222,54,New York,74314,Casual,2023-10-21,539.86,8,35.8,Table Games,14,Low
+223,22,Connecticut,83771,VIP,2024-12-20,1458.16,13,53.1,Sports,47,Medium
+224,65,Oklahoma,55826,High-Value,2023-08-15,1570.45,25,119.5,"Poker, Sports",25,Low
+225,20,New Mexico,53992,High-Value,2026-01-12,459.34,13,116.2,Bingo,21,Low
+226,22,Michigan,63498,High-Value,2025-11-20,262.2,16,37.9,Slots,24,Low
+227,27,Nebraska,66817,High-Value,2024-07-05,4413.45,24,47.1,"Slots, Table Games",31,Medium
+228,54,Minnesota,77720,High-Value,2026-01-13,1450.12,13,92.9,"Bingo, Slots",21,Low
+229,25,District of Columbia,90088,VIP,2024-06-20,1975.58,26,113.0,Table Games,15,Low
+230,51,Pennsylvania,68957,Casual,2023-07-25,2012.92,2,20.8,"Poker, Bingo",41,Medium
+231,57,Florida,63062,VIP,2023-11-01,4466.73,5,41.6,"Bingo, Sports",40,Medium
+232,40,Oregon,71562,High-Value,2026-03-20,2541.5,17,86.5,"Poker, Slots",37,Medium
+233,40,Minnesota,77720,Frequent,2023-10-13,3372.29,14,96.6,"Slots, Poker, Table Games",38,Medium
+234,69,South Dakota,66143,Regular,2024-07-03,4860.56,19,88.0,"Poker, Table Games, Sports",53,Medium
+235,65,South Carolina,59318,Regular,2023-10-26,3102.48,27,99.5,Slots,47,Medium
+236,63,Oklahoma,55826,Frequent,2023-08-31,558.38,1,53.2,"Table Games, Poker",39,Medium
+237,68,New York,74314,Casual,2024-12-08,3061.28,16,86.2,"Table Games, Sports, Poker",62,High
+238,52,New Jersey,89296,VIP,2023-11-01,1890.36,6,44.4,"Sports, Poker",29,Low
+239,34,Idaho,66474,Frequent,2025-09-19,1402.24,10,93.7,"Table Games, Poker, Bingo",12,Low
+240,41,New Jersey,89296,Frequent,2024-07-17,2806.83,30,38.1,"Bingo, Poker, Table Games",45,Medium
+241,68,Michigan,63498,Frequent,2024-09-18,4025.03,10,114.9,Sports,36,Medium
+242,60,Nevada,66274,Regular,2026-05-18,1289.66,16,100.2,"Bingo, Sports",11,Low
+243,25,District of Columbia,90088,Regular,2025-08-06,3082.23,19,10.8,"Table Games, Bingo, Slots",27,Low
+244,45,Connecticut,83771,Regular,2024-06-10,1658.17,16,5.6,"Table Games, Poker, Sports",8,Low
+245,49,New Jersey,89296,Frequent,2025-10-28,3256.19,25,41.9,"Slots, Bingo, Sports",50,Medium
+246,33,Oklahoma,55826,Casual,2024-02-04,2680.41,24,110.0,Poker,47,Medium
+247,21,Hawaii,84857,High-Value,2025-12-17,4985.89,13,26.4,"Sports, Slots, Poker",60,High
+248,55,Maine,64767,Frequent,2025-12-25,3017.89,30,57.3,"Bingo, Poker, Slots",30,Medium
+249,48,New York,74314,Frequent,2025-07-17,1371.46,26,23.7,"Sports, Table Games",8,Low
+250,66,Alabama,53913,Regular,2024-07-25,1692.19,10,25.2,"Poker, Bingo, Sports",38,Medium
+251,24,Maryland,90203,Regular,2025-07-17,2010.16,4,59.9,Slots,60,High
+252,43,Kansas,64124,Frequent,2025-04-06,1185.25,25,39.7,"Bingo, Slots, Table Games",13,Low
+253,42,South Dakota,66143,Casual,2024-05-04,3466.92,2,58.5,Poker,61,High
+254,51,Texas,66963,Frequent,2023-12-07,4616.3,29,84.4,"Sports, Bingo, Poker",42,Medium
+255,33,Indiana,62743,High-Value,2023-12-11,4787.23,16,91.0,"Sports, Poker, Bingo",24,Low
+256,49,Ohio,62262,Regular,2026-05-02,3789.18,26,92.6,"Bingo, Slots, Sports",41,Medium
+257,52,Nevada,66274,VIP,2025-05-13,3521.79,3,17.9,"Bingo, Table Games, Sports",69,High
+258,28,North Dakota,66519,High-Value,2025-01-14,831.04,28,18.4,Bingo,6,Low
+259,24,New Mexico,53992,Casual,2025-05-02,4495.46,15,57.1,"Poker, Bingo, Sports",60,High
+260,54,Arkansas,52528,Casual,2025-04-12,2317.27,26,50.5,Table Games,29,Low
+261,23,Oregon,71562,Casual,2025-07-08,236.0,12,67.2,Slots,27,Low
+262,21,New Jersey,89296,Regular,2023-10-06,1442.58,6,93.1,"Poker, Sports, Table Games",54,Medium
+263,74,Nevada,66274,Casual,2026-05-25,4586.4,13,83.5,"Bingo, Table Games, Sports",47,Medium
+264,26,Michigan,63498,VIP,2026-04-24,900.58,18,19.6,Slots,2,Low
+265,20,West Virginia,51248,VIP,2026-04-12,4892.67,15,53.8,"Table Games, Bingo",56,Medium
+266,41,New Hampshire,88465,Casual,2023-12-13,784.06,7,8.7,"Poker, Slots, Bingo",29,Low
+267,23,Illinois,72205,VIP,2023-10-16,513.47,2,82.3,Table Games,39,Medium
+268,21,Washington,84247,Regular,2025-03-30,2017.3,8,91.8,Table Games,62,High
+269,37,New York,74314,VIP,2024-12-22,1178.47,30,41.7,"Sports, Table Games, Poker",28,Low
+270,61,Florida,63062,Frequent,2023-12-30,2611.04,14,12.0,"Table Games, Poker, Sports",44,Medium
+271,22,New Mexico,53992,High-Value,2024-08-03,4861.73,21,95.4,"Poker, Bingo",56,Medium
+272,38,Florida,63062,High-Value,2024-05-06,1888.54,25,32.7,Sports,22,Low
+273,28,Vermont,72431,VIP,2024-05-04,4030.82,30,52.5,"Bingo, Table Games",21,Low
+274,34,Mississippi,48716,Casual,2025-10-24,1282.43,11,111.1,"Slots, Table Games",35,Medium
+275,36,Arkansas,52528,Casual,2025-06-09,1892.07,20,105.5,Bingo,24,Low
+276,61,Virginia,80963,Frequent,2024-02-16,2798.66,16,39.9,Table Games,41,Medium
+277,66,Idaho,66474,Regular,2025-04-29,595.41,25,85.0,"Table Games, Poker, Slots",20,Low
+278,39,Ohio,62262,VIP,2024-04-24,3879.81,13,79.6,"Sports, Bingo",34,Medium
+279,75,New York,74314,High-Value,2024-09-18,2491.41,4,92.6,"Table Games, Sports",80,High
+280,45,Maryland,90203,Regular,2025-07-01,238.12,28,6.9,"Bingo, Poker, Table Games",0,Low
+281,31,Florida,63062,Regular,2024-08-05,1656.03,13,62.4,"Sports, Bingo, Table Games",23,Low
+282,60,Virginia,80963,Frequent,2023-11-08,3700.57,15,24.5,"Bingo, Poker, Slots",25,Low
+283,60,North Dakota,66519,Casual,2025-06-01,4786.61,17,113.7,"Slots, Bingo, Table Games",21,Low
+284,72,District of Columbia,90088,Regular,2025-11-14,3157.2,3,6.1,"Poker, Sports, Slots",77,High
+285,59,Rhode Island,74008,High-Value,2023-12-13,3337.11,20,80.8,Slots,49,Medium
+286,54,North Dakota,66519,Frequent,2023-09-30,2062.58,1,66.6,"Slots, Poker",56,Medium
+287,30,Alaska,77845,Regular,2026-04-22,544.01,4,32.7,"Bingo, Sports, Table Games",26,Low
+288,69,Kentucky,55573,High-Value,2025-10-30,1990.51,12,57.8,Table Games,50,Medium
+289,62,Maine,64767,Casual,2023-08-05,4142.03,3,15.8,"Poker, Bingo",75,High
+290,59,Arkansas,52528,High-Value,2023-12-05,57.16,6,102.2,"Sports, Slots, Bingo",2,Low
+291,33,Arizona,69056,VIP,2024-07-15,1064.97,28,59.7,Slots,27,Low
+292,36,Texas,66963,Casual,2024-03-28,4497.57,19,25.6,"Slots, Table Games",41,Medium
+293,28,Oregon,71562,High-Value,2025-04-05,3763.75,23,111.8,"Table Games, Bingo",46,Medium
+294,72,Oklahoma,55826,VIP,2025-08-06,4248.72,22,43.1,"Table Games, Slots, Sports",63,High
+295,41,Washington,84247,Casual,2025-07-30,277.95,14,44.2,"Bingo, Poker, Table Games",0,Low
+296,59,Puerto Rico,22237,Regular,2024-06-10,1373.9,15,45.9,"Poker, Table Games",30,Medium
+297,56,Texas,66963,VIP,2025-03-27,3306.75,3,39.0,Slots,64,High
+298,36,Colorado,82254,Regular,2023-10-13,779.56,23,90.1,"Sports, Slots",15,Low
+299,19,Colorado,82254,Frequent,2024-03-25,4715.37,15,16.8,Table Games,46,Medium
+300,47,Nebraska,66817,Casual,2025-02-21,2789.36,17,8.0,"Bingo, Slots",33,Medium
+301,57,Pennsylvania,68957,Casual,2023-07-17,3924.35,28,38.6,"Slots, Table Games",32,Medium
+302,52,Oklahoma,55826,Regular,2025-03-11,856.22,13,35.9,"Poker, Table Games",0,Low
+303,29,California,84907,High-Value,2024-08-28,2179.03,14,95.0,"Sports, Table Games",29,Low
+304,59,Virginia,80963,High-Value,2025-06-19,2484.05,20,17.3,"Slots, Poker",26,Low
+305,72,Massachusetts,89645,Frequent,2024-09-29,3104.76,26,55.6,"Bingo, Table Games",62,High
+306,39,Maine,64767,High-Value,2025-05-01,3020.02,23,41.1,"Sports, Bingo",26,Low
+307,63,Washington,84247,Regular,2026-06-30,3168.18,19,42.5,"Poker, Sports",60,High
+308,55,Delaware,71091,VIP,2025-11-23,1007.0,18,8.1,"Poker, Table Games, Bingo",10,Low
+309,37,Alaska,77845,High-Value,2026-05-07,4158.1,3,82.4,Sports,66,High
+310,35,Iowa,65600,High-Value,2025-08-08,3296.73,23,13.5,"Poker, Bingo, Sports",33,Medium
+311,74,New York,74314,Frequent,2024-03-10,3461.63,18,85.7,"Bingo, Slots, Poker",36,Medium
+312,34,Wisconsin,67125,VIP,2024-05-03,3291.43,12,10.1,"Poker, Sports, Table Games",25,Low
+313,19,Connecticut,83771,VIP,2024-10-16,502.05,8,69.2,"Bingo, Table Games, Poker",31,Medium
+314,44,Minnesota,77720,VIP,2024-06-16,2320.69,22,22.3,Poker,38,Medium
+315,37,Connecticut,83771,Regular,2023-10-12,2085.72,3,45.1,"Poker, Table Games",43,Medium
+316,49,North Carolina,61972,High-Value,2025-12-29,1748.02,4,41.7,"Slots, Bingo",39,Medium
+317,73,Puerto Rico,22237,Regular,2025-11-02,1721.96,4,111.9,"Table Games, Bingo, Sports",71,High
+318,40,Georgia,66559,High-Value,2023-10-16,2803.65,15,77.4,Poker,27,Low
+319,20,Missouri,61847,High-Value,2024-11-12,3689.57,29,73.1,"Slots, Table Games",41,Medium
+320,36,Illinois,72205,Casual,2023-10-10,3764.1,26,71.4,"Table Games, Sports, Bingo",45,Medium
+321,48,Idaho,66474,High-Value,2023-09-29,578.64,22,65.7,"Sports, Poker, Bingo",17,Low
+322,56,Missouri,61847,High-Value,2026-01-06,580.02,12,76.0,"Sports, Slots, Bingo",17,Low
+323,39,District of Columbia,90088,Regular,2025-07-23,598.13,10,47.9,Bingo,0,Low
+324,45,Mississippi,48716,High-Value,2025-09-02,2986.16,19,26.4,"Bingo, Table Games, Sports",42,Medium
+325,50,Georgia,66559,High-Value,2025-10-16,1451.29,6,76.2,"Slots, Poker",25,Low
+326,31,District of Columbia,90088,High-Value,2024-03-14,4077.93,18,52.1,"Poker, Bingo",36,Medium
+327,29,New Mexico,53992,Regular,2023-10-10,422.53,1,38.6,"Table Games, Sports",35,Medium
+328,68,Georgia,66559,High-Value,2025-09-09,2292.03,24,68.2,Bingo,59,Medium
+329,36,Delaware,71091,VIP,2023-11-15,3877.81,27,99.6,Poker,31,Medium
+330,32,North Dakota,66519,Regular,2024-04-27,4948.98,4,39.2,Poker,63,High
+331,41,Kansas,64124,Casual,2023-10-28,4312.38,3,94.2,Table Games,54,Medium
+332,66,Alaska,77845,VIP,2026-01-23,2943.74,12,77.8,Bingo,62,High
+333,69,District of Columbia,90088,Casual,2023-10-27,1041.03,7,70.6,"Sports, Table Games, Poker",55,Medium
+334,37,Vermont,72431,VIP,2026-05-27,1453.77,9,118.3,"Slots, Table Games, Poker",45,Medium
+335,36,Arkansas,52528,Regular,2024-07-13,4336.57,5,33.7,"Sports, Table Games, Bingo",52,Medium
+336,50,Missouri,61847,High-Value,2025-04-01,719.44,21,48.1,Slots,0,Low
+337,51,Missouri,61847,Frequent,2024-01-16,3751.51,23,57.3,"Sports, Slots",49,Medium
+338,73,Wisconsin,67125,Frequent,2025-12-14,3666.29,24,102.8,"Poker, Table Games, Bingo",49,Medium
+339,50,Illinois,72205,Frequent,2024-07-30,1350.0,27,67.9,Bingo,14,Low
+340,69,New Mexico,53992,Casual,2025-12-29,1725.26,22,10.3,"Poker, Slots, Bingo",44,Medium
+341,47,Georgia,66559,Regular,2026-01-22,2288.03,14,106.4,"Table Games, Sports",26,Low
+342,60,Colorado,82254,Regular,2023-09-13,1808.57,3,11.0,"Sports, Table Games, Poker",36,Medium
+343,24,South Dakota,66143,High-Value,2026-03-02,3521.45,1,14.0,"Table Games, Poker, Slots",61,High
+344,63,Alabama,53913,High-Value,2023-11-18,1724.44,4,84.8,"Slots, Table Games",67,High
+345,24,Mississippi,48716,Frequent,2025-04-25,3656.51,4,47.3,"Table Games, Poker",68,High
+346,71,Wisconsin,67125,Regular,2026-04-30,3768.26,5,12.9,"Slots, Table Games, Poker",65,High
+347,65,Michigan,63498,High-Value,2026-01-05,1073.15,24,75.8,"Table Games, Slots",24,Low
+348,27,Connecticut,83771,High-Value,2025-12-08,3764.7,19,45.4,"Sports, Table Games",43,Medium
+349,36,Iowa,65600,VIP,2025-10-03,3226.66,8,74.0,"Sports, Slots, Bingo",47,Medium
+350,32,Maine,64767,High-Value,2024-11-16,2593.57,17,39.0,Table Games,26,Low
+351,43,New Mexico,53992,VIP,2024-08-22,572.59,16,13.2,Sports,10,Low
+352,27,Maryland,90203,High-Value,2024-05-26,1940.32,27,47.0,"Table Games, Poker, Slots",23,Low
+353,56,Puerto Rico,22237,Casual,2026-05-19,346.99,9,111.1,"Bingo, Sports",16,Low
+354,64,South Carolina,59318,High-Value,2024-11-13,2510.23,14,14.5,"Bingo, Table Games, Poker",48,Medium
+355,38,Colorado,82254,Regular,2024-07-18,404.32,30,66.7,"Bingo, Slots",0,Low
+356,63,Maine,64767,Casual,2024-08-29,2193.06,28,33.1,"Slots, Poker",42,Medium
+357,57,Rhode Island,74008,Regular,2025-03-19,284.59,22,18.7,"Table Games, Slots, Poker",13,Low
+358,41,New Mexico,53992,Frequent,2024-02-02,2619.8,26,24.2,Sports,46,Medium
+359,75,Virginia,80963,Frequent,2026-05-22,599.1,29,97.8,"Bingo, Slots",5,Low
+360,64,Kansas,64124,High-Value,2026-04-11,4875.5,21,57.3,"Slots, Poker",37,Medium
+361,29,Oklahoma,55826,Casual,2024-10-22,1844.76,9,107.8,"Slots, Table Games, Sports",39,Medium
+362,19,New York,74314,Regular,2025-06-23,229.75,28,10.3,"Poker, Table Games",5,Low
+363,73,Hawaii,84857,High-Value,2024-11-16,186.46,26,30.8,Poker,34,Medium
+364,39,Virginia,80963,Frequent,2023-11-03,1363.58,3,18.7,"Slots, Table Games, Bingo",43,Medium
+365,52,Alaska,77845,High-Value,2023-07-28,4907.26,13,104.6,"Sports, Slots",22,Low
+366,48,Ohio,62262,VIP,2025-06-24,49.77,7,95.2,"Bingo, Table Games, Poker",9,Low
+367,56,Minnesota,77720,Regular,2026-03-04,4859.57,25,89.2,"Table Games, Bingo, Slots",44,Medium
+368,20,Montana,63249,Casual,2025-12-04,1172.66,12,114.4,Poker,40,Medium
+369,65,Washington,84247,Regular,2023-12-16,1544.48,7,53.3,Table Games,46,Medium
+370,36,Vermont,72431,VIP,2023-11-04,474.2,30,52.5,"Poker, Slots",0,Low
+371,25,Oregon,71562,High-Value,2025-10-26,2532.08,21,13.6,"Slots, Poker, Sports",46,Medium
+372,34,District of Columbia,90088,High-Value,2024-06-09,1465.46,28,85.6,"Sports, Bingo, Table Games",15,Low
+373,33,Kentucky,55573,VIP,2025-09-06,382.69,7,17.5,Table Games,4,Low
+374,48,Nevada,66274,Frequent,2024-08-28,1577.03,4,115.9,Poker,42,Medium
+375,48,Maine,64767,Regular,2024-02-04,1332.39,4,97.9,"Bingo, Slots",27,Low
+376,72,Illinois,72205,Regular,2025-01-06,4284.3,5,116.4,"Bingo, Slots",47,Medium
+377,38,Texas,66963,High-Value,2023-10-28,1308.23,6,103.3,"Bingo, Table Games, Slots",15,Low
+378,25,New Hampshire,88465,Casual,2024-07-27,4021.44,5,12.1,Table Games,33,Medium
+379,71,Idaho,66474,Casual,2025-02-07,2008.9,22,72.0,"Slots, Bingo",55,Medium
+380,31,California,84907,Regular,2024-09-28,4513.46,15,15.6,"Slots, Bingo",45,Medium
+381,22,New Hampshire,88465,High-Value,2024-03-15,848.27,19,62.1,"Poker, Table Games",18,Low
+382,32,Michigan,63498,High-Value,2025-05-24,4542.44,9,106.6,Bingo,38,Medium
+383,58,Rhode Island,74008,High-Value,2025-11-03,1236.47,10,106.5,"Slots, Bingo",20,Low
+384,43,Kentucky,55573,VIP,2026-07-10,694.81,7,33.7,"Slots, Poker, Sports",20,Low
+385,49,Michigan,63498,VIP,2024-10-25,2727.14,16,62.8,"Sports, Table Games",31,Medium
+386,39,Puerto Rico,22237,Frequent,2026-02-18,2989.61,1,11.7,"Bingo, Sports",78,High
+387,56,Wisconsin,67125,Regular,2026-04-24,4998.03,6,80.5,"Bingo, Slots",33,Medium
+388,33,West Virginia,51248,Frequent,2025-10-12,2882.7,26,112.5,Table Games,32,Medium
+389,56,Iowa,65600,Frequent,2023-07-26,1596.84,24,110.1,Sports,27,Low
+390,55,Oklahoma,55826,High-Value,2026-05-16,719.09,7,67.3,Poker,26,Low
+391,24,Arizona,69056,Casual,2025-11-21,290.28,20,65.5,Sports,12,Low
+392,31,Rhode Island,74008,Regular,2024-10-21,4034.16,11,110.7,"Slots, Bingo",42,Medium
+393,56,Florida,63062,Casual,2026-05-09,3526.43,5,102.3,"Slots, Sports",54,Medium
+394,61,Vermont,72431,Frequent,2023-12-21,1984.02,4,42.1,Poker,50,Medium
+395,59,Wyoming,65204,Regular,2024-02-07,4803.7,21,86.3,"Bingo, Sports, Slots",30,Medium
+396,56,Tennessee,59695,Frequent,2024-08-27,4074.13,13,19.6,"Slots, Poker, Sports",29,Low
+397,30,Arizona,69056,VIP,2024-01-09,3015.92,30,30.4,"Slots, Poker, Bingo",45,Medium
+398,66,Massachusetts,89645,Regular,2023-12-27,398.26,12,78.2,Sports,15,Low
+399,19,Nevada,66274,Casual,2025-11-19,1333.41,8,45.3,Slots,52,Medium
+400,43,Arkansas,52528,High-Value,2024-03-11,2196.72,14,61.7,"Sports, Poker",25,Low
+401,72,Connecticut,83771,Regular,2024-09-09,2402.65,28,23.7,Slots,53,Medium
+402,20,Louisiana,52087,Frequent,2024-09-23,1600.4,4,24.6,"Table Games, Slots",42,Medium
+403,24,Ohio,62262,High-Value,2026-02-07,1696.37,20,86.0,"Table Games, Poker",48,Medium
+404,22,Georgia,66559,High-Value,2024-06-05,515.28,7,85.2,"Bingo, Sports, Poker",21,Low
+405,38,Louisiana,52087,VIP,2024-12-27,1195.37,2,68.2,"Table Games, Slots",37,Medium
+406,19,Minnesota,77720,VIP,2024-05-25,2143.75,10,60.2,Slots,61,High
+407,29,Illinois,72205,Casual,2026-06-15,3194.57,3,40.5,"Poker, Bingo",55,Medium
+408,35,Tennessee,59695,Regular,2026-03-25,464.77,18,47.7,"Sports, Table Games",2,Low
+409,21,Nevada,66274,Regular,2024-08-27,1323.85,15,101.3,"Slots, Table Games, Sports",28,Low
+410,25,Tennessee,59695,VIP,2025-09-06,437.68,12,52.6,"Table Games, Slots, Bingo",15,Low
+411,45,North Carolina,61972,High-Value,2025-08-10,4828.48,22,70.9,Poker,47,Medium
+412,24,Maine,64767,Casual,2024-08-07,1980.07,28,62.7,"Bingo, Table Games, Slots",42,Medium
+413,47,West Virginia,51248,Regular,2023-09-30,872.67,6,19.5,"Slots, Poker",6,Low
+414,71,Idaho,66474,Frequent,2023-12-04,3139.86,27,41.8,"Slots, Bingo, Table Games",54,Medium
+415,44,Ohio,62262,VIP,2026-03-25,2764.75,28,57.7,Bingo,28,Low
+416,52,Oregon,71562,Regular,2025-05-02,3910.61,4,22.0,"Bingo, Slots, Poker",53,Medium
+417,68,Oklahoma,55826,VIP,2024-09-15,513.94,10,106.2,"Sports, Poker",32,Medium
+418,50,South Dakota,66143,Regular,2023-09-20,2864.4,16,36.7,Bingo,21,Low
+419,62,Pennsylvania,68957,Frequent,2023-07-19,3471.37,2,84.4,Poker,67,High
+420,42,Kentucky,55573,Frequent,2024-12-13,110.96,27,40.8,"Slots, Table Games",15,Low
+421,38,District of Columbia,90088,Frequent,2024-02-02,4871.35,15,36.0,"Bingo, Slots",44,Medium
+422,47,Idaho,66474,High-Value,2026-03-29,1064.84,27,92.3,"Slots, Table Games",18,Low
+423,38,California,84907,VIP,2024-08-23,3550.75,13,106.1,Table Games,24,Low
+424,75,Idaho,66474,Regular,2024-03-21,4166.32,27,8.8,Sports,36,Medium
+425,31,Vermont,72431,VIP,2025-05-30,1377.15,27,50.6,Slots,19,Low
+426,42,Iowa,65600,High-Value,2025-11-17,2449.05,15,72.5,"Sports, Table Games",25,Low
+427,66,Kansas,64124,Casual,2025-05-08,4156.04,3,49.5,Bingo,64,High
+428,32,Wisconsin,67125,Regular,2025-12-01,4286.98,21,35.9,"Bingo, Slots",27,Low
+429,68,Wisconsin,67125,Regular,2023-07-29,3414.18,16,79.4,"Slots, Table Games, Poker",64,High
+430,70,Pennsylvania,68957,Frequent,2024-01-03,4715.59,23,53.7,"Sports, Poker",65,High
+431,32,Kansas,64124,VIP,2023-11-07,2338.82,22,50.7,Slots,36,Medium
+432,61,New York,74314,VIP,2026-06-21,4832.76,27,79.4,"Sports, Bingo, Poker",46,Medium
+433,49,Connecticut,83771,Frequent,2024-03-01,328.55,9,104.1,"Sports, Table Games",20,Low
+434,52,Florida,63062,VIP,2025-11-07,3829.72,29,51.5,"Table Games, Slots",21,Low
+435,50,South Dakota,66143,High-Value,2023-09-07,4987.37,9,51.5,"Slots, Table Games, Poker",59,Medium
+436,64,Virginia,80963,High-Value,2025-02-06,1119.59,18,109.3,"Sports, Bingo, Slots",40,Medium
+437,75,Tennessee,59695,High-Value,2026-01-03,2795.66,10,19.7,"Bingo, Table Games",38,Medium
+438,40,Texas,66963,Regular,2025-11-18,3275.63,8,90.6,"Poker, Sports",41,Medium
+439,35,Minnesota,77720,Casual,2024-02-29,2932.0,15,59.1,"Bingo, Slots, Table Games",47,Medium
+440,51,Idaho,66474,VIP,2025-05-11,607.88,22,39.3,Table Games,2,Low
+441,31,District of Columbia,90088,High-Value,2024-01-27,1719.92,19,21.5,"Table Games, Slots, Bingo",33,Medium
+442,59,Massachusetts,89645,Casual,2023-09-16,4933.34,11,5.5,"Table Games, Bingo",40,Medium
+443,67,Oklahoma,55826,Casual,2024-11-03,800.59,26,19.9,"Poker, Bingo",29,Low
+444,49,Nebraska,66817,Regular,2025-01-30,1922.75,2,89.0,Sports,42,Medium
+445,72,West Virginia,51248,Casual,2023-09-13,2659.86,1,77.1,Table Games,76,High
+446,75,Utah,79449,High-Value,2025-01-19,1728.31,5,62.9,"Table Games, Slots",33,Medium
+447,38,Arizona,69056,VIP,2024-06-04,4742.83,15,73.6,"Poker, Table Games",43,Medium
+448,50,Massachusetts,89645,High-Value,2026-06-07,1802.66,7,7.2,Table Games,20,Low
+449,65,Illinois,72205,Casual,2024-08-04,119.35,17,47.2,"Slots, Poker, Sports",10,Low
+450,68,Kansas,64124,Casual,2026-05-15,2678.32,2,81.1,"Slots, Bingo, Sports",74,High
+451,45,Delaware,71091,Frequent,2023-12-20,2227.13,4,59.6,Table Games,57,Medium
+452,62,Utah,79449,Casual,2025-01-13,3155.25,10,81.2,"Bingo, Table Games",48,Medium
+453,72,Montana,63249,VIP,2025-11-29,4494.12,17,18.5,Slots,58,Medium
+454,31,New Mexico,53992,VIP,2025-04-05,3048.92,25,116.9,"Poker, Sports",28,Low
+455,21,Georgia,66559,High-Value,2026-03-04,2745.21,30,43.0,Slots,41,Medium
+456,24,Tennessee,59695,High-Value,2024-03-10,4535.33,27,22.2,Bingo,53,Medium
+457,65,California,84907,Regular,2024-07-15,3620.65,29,57.5,"Sports, Poker",43,Medium
+458,25,Arkansas,52528,Frequent,2024-03-22,4067.76,28,46.4,"Sports, Poker, Bingo",21,Low
+459,25,Delaware,71091,Casual,2024-04-14,4257.72,29,103.0,"Table Games, Sports, Bingo",21,Low
+460,58,Nevada,66274,Frequent,2025-04-14,1348.86,24,98.7,Slots,7,Low
+461,44,Missouri,61847,High-Value,2023-08-21,4811.93,9,84.3,"Poker, Table Games",56,Medium
+462,27,Delaware,71091,Regular,2024-04-17,3483.89,2,16.9,"Poker, Bingo, Slots",70,High
+463,43,Rhode Island,74008,Regular,2024-12-11,3898.03,20,60.6,"Slots, Poker",20,Low
+464,21,Nevada,66274,Casual,2025-04-13,326.05,21,86.0,"Bingo, Table Games, Sports",15,Low
+465,52,Massachusetts,89645,Casual,2026-05-19,2620.28,23,54.8,"Table Games, Poker, Bingo",39,Medium
+466,62,Tennessee,59695,VIP,2024-08-02,3210.61,5,107.6,"Slots, Bingo, Sports",71,High
+467,51,Georgia,66559,Regular,2024-08-31,4245.74,28,13.6,"Sports, Table Games",35,Medium
+468,36,Massachusetts,89645,High-Value,2024-03-17,261.25,8,51.4,Slots,17,Low
+469,47,New Hampshire,88465,High-Value,2026-07-07,4008.29,15,56.4,Poker,22,Low
+470,60,Washington,84247,Casual,2023-12-28,98.67,13,69.1,Slots,3,Low
+471,57,Wyoming,65204,VIP,2025-02-27,4816.22,21,69.7,"Poker, Sports, Table Games",29,Low
+472,71,Arkansas,52528,VIP,2023-09-12,1122.36,15,93.3,"Poker, Sports, Bingo",30,Medium
+473,26,Nevada,66274,Casual,2025-07-14,496.21,22,44.3,"Sports, Bingo, Poker",0,Low
+474,21,Connecticut,83771,High-Value,2024-06-23,4485.42,16,17.3,"Table Games, Bingo, Slots",39,Medium
+475,32,Missouri,61847,Frequent,2024-05-19,2290.66,26,17.4,"Slots, Bingo",26,Low
+476,47,Wisconsin,67125,VIP,2025-06-28,2292.37,19,20.5,"Slots, Bingo",50,Medium
+477,46,Ohio,62262,VIP,2025-01-07,4195.69,16,94.8,Bingo,49,Medium
+478,65,Hawaii,84857,VIP,2024-10-30,4078.07,4,74.7,"Bingo, Poker",67,High
+479,57,Montana,63249,Frequent,2024-07-01,4580.39,25,50.8,"Sports, Poker",27,Low
+480,27,Alaska,77845,VIP,2024-06-24,699.52,20,39.4,"Bingo, Sports, Poker",12,Low
+481,54,Washington,84247,VIP,2023-08-19,3166.59,7,87.2,"Sports, Table Games, Bingo",36,Medium
+482,30,South Dakota,66143,Frequent,2026-05-04,2524.43,23,86.7,"Bingo, Poker",40,Medium
+483,55,Oregon,71562,VIP,2024-05-09,4713.94,23,37.9,"Slots, Bingo",33,Medium
+484,43,Puerto Rico,22237,Regular,2025-03-23,735.18,22,35.7,Sports,1,Low
+485,35,Texas,66963,Frequent,2024-12-04,740.68,2,28.5,"Slots, Sports, Table Games",32,Medium
+486,58,Connecticut,83771,Regular,2024-09-18,4341.5,24,90.4,"Poker, Table Games, Sports",37,Medium
+487,69,Wyoming,65204,Casual,2023-10-29,3996.12,10,111.5,"Poker, Sports",57,Medium
+488,22,Ohio,62262,VIP,2024-09-19,74.7,9,104.9,"Table Games, Sports",21,Low
+489,56,West Virginia,51248,Regular,2025-01-09,2737.61,20,38.8,Slots,26,Low
+490,30,Hawaii,84857,Casual,2026-04-05,3678.05,4,54.3,"Sports, Table Games, Slots",52,Medium
+491,73,Oregon,71562,Regular,2025-09-12,1282.53,11,9.6,"Bingo, Slots",34,Medium
+492,59,Wisconsin,67125,High-Value,2025-03-25,3081.89,22,95.8,"Sports, Slots, Bingo",29,Low
+493,52,Maryland,90203,Casual,2026-06-03,1107.61,6,95.4,Poker,31,Medium
+494,53,North Dakota,66519,Regular,2025-10-23,2023.05,12,81.3,"Sports, Bingo",27,Low
+495,67,Illinois,72205,Casual,2024-12-09,3095.22,16,18.2,"Poker, Table Games",52,Medium
+496,58,South Dakota,66143,Casual,2023-08-25,4593.85,8,83.5,"Poker, Slots",60,High
+497,35,Mississippi,48716,VIP,2024-01-09,2705.78,10,99.5,"Bingo, Poker",30,Medium
+498,21,New Mexico,53992,Frequent,2024-08-22,1489.21,21,64.1,Table Games,26,Low
+499,53,Wisconsin,67125,Regular,2024-04-16,2670.7,21,82.1,Poker,22,Low
+500,32,Connecticut,83771,High-Value,2025-12-31,2693.39,23,79.4,Table Games,48,Medium
+501,48,Puerto Rico,22237,Casual,2024-08-29,3587.17,2,11.2,"Bingo, Slots",52,Medium
+502,71,Oklahoma,55826,High-Value,2023-09-11,1145.95,9,56.9,"Poker, Sports",43,Medium
+503,43,Puerto Rico,22237,VIP,2023-12-29,3369.76,18,12.3,"Bingo, Slots, Sports",30,Medium
+504,41,California,84907,Frequent,2026-01-25,4640.96,4,74.8,"Poker, Bingo",49,Medium
+505,71,Missouri,61847,VIP,2025-05-19,3307.01,16,30.3,"Poker, Sports, Bingo",40,Medium
+506,38,Florida,63062,Frequent,2025-01-01,3389.67,30,115.1,Bingo,50,Medium
+507,28,Ohio,62262,VIP,2024-11-12,624.94,1,50.3,"Slots, Sports, Bingo",28,Low
+508,66,Washington,84247,High-Value,2025-05-21,4518.7,12,109.1,"Table Games, Bingo, Slots",41,Medium
+509,58,Indiana,62743,Regular,2026-02-09,4175.39,7,82.2,"Slots, Poker, Sports",33,Medium
+510,23,Ohio,62262,Casual,2025-09-15,1460.36,3,27.7,"Poker, Sports, Table Games",48,Medium
+511,61,District of Columbia,90088,VIP,2024-01-09,3280.81,4,13.0,Sports,64,High
+512,47,New Mexico,53992,VIP,2025-03-03,1648.45,22,22.5,"Sports, Bingo, Table Games",14,Low
+513,19,Georgia,66559,High-Value,2025-12-25,1572.94,26,36.8,"Table Games, Sports",27,Low
+514,48,New Jersey,89296,High-Value,2024-05-04,2232.34,25,68.4,Bingo,29,Low
+515,72,Colorado,82254,VIP,2024-08-12,1410.27,27,27.6,"Slots, Bingo, Poker",24,Low
+516,59,New York,74314,High-Value,2023-09-20,165.66,19,93.5,Slots,8,Low
+517,35,Ohio,62262,Regular,2025-05-21,2721.91,18,47.1,Bingo,35,Medium
+518,73,Virginia,80963,VIP,2023-07-16,1462.09,15,15.4,"Bingo, Slots",36,Medium
+519,34,Tennessee,59695,Regular,2025-09-28,4241.43,26,92.1,Poker,39,Medium
+520,30,Georgia,66559,Regular,2025-10-27,2836.12,19,89.6,"Sports, Slots",41,Medium
+521,67,Indiana,62743,Frequent,2026-06-14,2443.33,3,31.9,"Table Games, Sports, Bingo",63,High
+522,48,New Jersey,89296,Frequent,2026-05-20,4408.94,2,16.9,"Sports, Bingo, Poker",60,High
+523,55,North Dakota,66519,Frequent,2024-05-15,877.51,21,72.6,Bingo,2,Low
+524,43,Kansas,64124,High-Value,2025-01-29,4863.64,8,45.6,"Poker, Bingo",46,Medium
+525,19,Pennsylvania,68957,Regular,2025-05-13,2514.17,5,31.4,"Sports, Table Games, Slots",59,Medium
+526,29,Hawaii,84857,Casual,2023-10-30,1817.49,23,81.0,"Sports, Slots",31,Medium
+527,62,New Jersey,89296,Regular,2026-05-10,2399.29,7,79.4,"Slots, Table Games",63,High
+528,27,Arizona,69056,VIP,2024-12-07,2871.7,6,9.5,"Table Games, Slots, Poker",34,Medium
+529,30,Kansas,64124,VIP,2026-03-08,2588.04,13,78.3,"Sports, Slots, Poker",39,Medium
+530,57,Nevada,66274,Regular,2024-11-12,4963.95,28,30.2,"Bingo, Table Games",35,Medium
+531,56,Wyoming,65204,VIP,2026-05-09,4104.06,6,35.4,"Sports, Poker, Bingo",49,Medium
+532,23,Oregon,71562,Casual,2024-01-23,1156.77,13,6.9,"Bingo, Poker, Slots",24,Low
+533,25,Pennsylvania,68957,VIP,2024-10-22,895.34,29,9.5,"Bingo, Slots, Poker",9,Low
+534,61,New Jersey,89296,Casual,2025-09-08,660.34,20,108.2,"Poker, Bingo, Table Games",22,Low
+535,63,Arizona,69056,High-Value,2024-11-05,2653.78,8,95.8,"Sports, Slots",75,High
+536,27,Nebraska,66817,Casual,2026-05-14,1280.04,25,37.6,"Poker, Sports, Slots",12,Low
+537,64,Alabama,53913,VIP,2025-04-08,3720.79,1,18.6,Poker,73,High
+538,32,South Dakota,66143,Frequent,2024-12-01,3441.96,11,17.3,"Bingo, Sports",33,Medium
+539,73,Kansas,64124,VIP,2025-03-30,2685.16,19,36.7,"Poker, Table Games, Bingo",46,Medium
+540,69,Ohio,62262,VIP,2026-07-01,2792.24,6,68.8,"Sports, Bingo",56,Medium
+541,64,Wisconsin,67125,Casual,2024-10-15,1996.67,5,91.0,"Table Games, Slots",57,Medium
+542,51,Illinois,72205,VIP,2025-11-21,2008.8,11,75.6,"Slots, Table Games, Poker",45,Medium
+543,19,South Carolina,59318,High-Value,2024-01-27,4023.8,27,111.5,"Slots, Bingo",39,Medium
+544,33,Kansas,64124,High-Value,2024-05-07,1860.47,20,112.0,"Bingo, Sports",6,Low
+545,57,Vermont,72431,Regular,2025-04-27,296.74,25,78.6,"Slots, Table Games",16,Low
+546,70,Tennessee,59695,VIP,2026-05-11,2595.58,7,63.7,"Table Games, Bingo, Sports",46,Medium
+547,42,Arizona,69056,Casual,2025-02-21,1203.89,1,119.6,"Sports, Poker",30,Medium
+548,56,Missouri,61847,Casual,2026-05-31,1009.55,1,110.7,"Sports, Bingo, Table Games",48,Medium
+549,33,Kentucky,55573,High-Value,2024-04-09,3035.75,7,71.1,"Table Games, Poker",44,Medium
+550,25,New York,74314,Frequent,2026-02-24,2797.57,17,113.9,"Sports, Bingo, Poker",29,Low
+551,43,Nevada,66274,Frequent,2025-12-14,2820.21,25,115.5,"Poker, Slots",27,Low
+552,26,New Jersey,89296,Regular,2024-10-23,1296.52,13,82.8,Sports,25,Low
+553,41,Montana,63249,Frequent,2025-04-04,2587.36,1,33.5,Poker,62,High
+554,66,Texas,66963,Regular,2025-11-11,4107.16,3,59.8,"Table Games, Sports",72,High
+555,66,Hawaii,84857,High-Value,2023-07-14,3418.71,30,89.8,Table Games,41,Medium
+556,32,Kansas,64124,VIP,2024-10-28,1153.75,27,45.9,Slots,12,Low
+557,62,Colorado,82254,Casual,2024-10-01,4779.34,16,92.9,"Slots, Poker, Table Games",54,Medium
+558,39,Rhode Island,74008,VIP,2024-06-04,2466.78,29,104.9,"Table Games, Sports",48,Medium
+559,33,Missouri,61847,VIP,2025-05-11,3753.35,5,96.9,"Bingo, Slots",31,Medium
+560,41,New York,74314,Regular,2025-12-30,1974.65,22,57.6,Bingo,29,Low
+561,39,New Hampshire,88465,Regular,2026-02-10,3449.16,1,48.6,Sports,61,High
+562,58,Minnesota,77720,Frequent,2026-04-26,4310.59,6,32.3,"Bingo, Sports",47,Medium
+563,30,Minnesota,77720,Frequent,2024-11-25,2498.86,7,47.0,"Sports, Poker",43,Medium
+564,55,Hawaii,84857,Regular,2025-07-05,664.38,19,98.6,"Sports, Table Games, Bingo",11,Low
+565,73,Nebraska,66817,Regular,2025-05-30,1910.61,5,59.4,Table Games,55,Medium
+566,50,Montana,63249,VIP,2025-05-30,681.01,29,66.4,"Poker, Sports",17,Low
+567,54,Kansas,64124,Casual,2026-05-28,4293.92,2,84.4,Table Games,52,Medium
+568,49,Kansas,64124,Frequent,2024-06-09,4196.47,4,34.9,"Bingo, Sports",54,Medium
+569,20,Michigan,63498,VIP,2025-09-15,2064.69,12,27.9,"Bingo, Table Games, Poker",62,High
+570,39,Michigan,63498,High-Value,2025-07-18,3369.23,16,107.3,"Bingo, Sports",44,Medium
+571,59,New Hampshire,88465,Frequent,2024-04-02,4783.41,28,53.5,"Bingo, Poker, Slots",25,Low
+572,29,Colorado,82254,Frequent,2026-05-02,1724.69,11,86.7,"Poker, Sports, Table Games",15,Low
+573,74,Wisconsin,67125,VIP,2023-11-22,4694.46,24,116.0,"Table Games, Bingo",53,Medium
+574,27,Puerto Rico,22237,Casual,2024-09-26,3641.58,22,29.2,"Slots, Bingo",38,Medium
+575,75,California,84907,High-Value,2025-09-21,2371.2,2,65.3,Slots,55,Medium
+576,58,Kansas,64124,High-Value,2026-05-10,784.82,21,40.6,Sports,19,Low
+577,59,Nevada,66274,Regular,2026-03-23,640.79,17,8.3,"Sports, Bingo, Table Games",16,Low
+578,74,New Hampshire,88465,High-Value,2026-03-01,2707.51,9,20.5,"Bingo, Table Games, Sports",62,High
+579,48,Pennsylvania,68957,VIP,2024-12-15,3158.93,21,55.0,"Bingo, Sports, Table Games",48,Medium
+580,53,New Jersey,89296,Frequent,2023-12-06,1143.37,3,47.1,"Table Games, Sports",39,Medium
+581,19,Alabama,53913,Regular,2024-07-12,2621.35,25,44.5,"Bingo, Slots",62,High
+582,50,Utah,79449,Casual,2026-05-24,4735.32,16,93.1,"Bingo, Table Games",29,Low
+583,19,Wyoming,65204,VIP,2024-11-07,2745.58,7,55.3,Table Games,58,Medium
+584,66,Vermont,72431,Regular,2024-06-26,3233.49,27,35.2,"Table Games, Sports",47,Medium
+585,60,Louisiana,52087,High-Value,2024-05-18,3717.21,26,26.6,Table Games,28,Low
+586,37,District of Columbia,90088,High-Value,2024-02-27,560.68,15,36.3,"Poker, Table Games, Bingo",9,Low
+587,28,Puerto Rico,22237,Regular,2023-08-20,257.66,18,116.8,"Sports, Table Games",0,Low
+588,47,Vermont,72431,Regular,2023-09-23,3638.26,8,6.7,Sports,32,Medium
+589,38,Montana,63249,High-Value,2024-07-28,3930.77,16,85.1,Sports,31,Medium
+590,72,Colorado,82254,Frequent,2025-07-21,3755.34,5,94.2,Bingo,46,Medium
+591,30,New Jersey,89296,High-Value,2026-02-17,969.04,27,100.2,Table Games,0,Low
+592,68,Mississippi,48716,Casual,2023-11-04,4875.11,8,27.9,"Slots, Table Games, Poker",78,High
+593,62,Mississippi,48716,Regular,2025-06-20,4806.46,30,77.4,Bingo,55,Medium
+594,26,North Carolina,61972,Regular,2025-04-17,1274.03,21,46.4,Table Games,14,Low
+595,34,Delaware,71091,Regular,2026-03-18,3168.22,11,96.4,"Slots, Poker, Bingo",20,Low
+596,21,Alabama,53913,VIP,2025-12-24,2909.57,23,22.8,Table Games,50,Medium
+597,50,Georgia,66559,Casual,2024-05-11,466.09,20,11.9,"Table Games, Slots, Poker",0,Low
+598,33,New Mexico,53992,Frequent,2026-06-29,1590.53,18,97.6,"Table Games, Slots",30,Medium
+599,43,Utah,79449,Casual,2025-03-01,1797.26,5,60.8,"Bingo, Sports",23,Low
+600,63,North Dakota,66519,VIP,2025-08-19,2455.56,19,45.0,"Poker, Sports, Bingo",40,Medium
+601,29,Ohio,62262,Frequent,2025-03-25,353.69,5,99.2,"Sports, Poker, Slots",14,Low
+602,59,Wisconsin,67125,Casual,2024-07-27,2534.73,24,76.3,"Bingo, Table Games",25,Low
+603,65,Maryland,90203,High-Value,2024-02-28,326.08,18,26.8,"Poker, Table Games, Sports",31,Medium
+604,39,Louisiana,52087,Casual,2026-04-28,2054.92,11,65.2,Slots,23,Low
+605,30,District of Columbia,90088,High-Value,2026-06-16,4368.73,7,27.0,Bingo,33,Medium
+606,72,South Dakota,66143,VIP,2023-07-22,1949.11,16,85.7,"Slots, Sports",36,Medium
+607,57,Indiana,62743,Regular,2023-12-26,3592.05,1,80.4,Poker,69,High
+608,59,Alaska,77845,High-Value,2025-05-04,312.89,18,99.5,"Slots, Sports, Poker",13,Low
+609,65,Arizona,69056,Regular,2024-06-17,361.24,10,115.5,Slots,7,Low
+610,33,Virginia,80963,VIP,2024-04-12,2662.99,7,80.5,"Table Games, Poker, Sports",36,Medium
+611,68,Connecticut,83771,High-Value,2026-06-29,3196.74,12,85.8,"Slots, Table Games",56,Medium
+612,30,Wyoming,65204,Regular,2025-09-25,2754.33,17,66.4,"Poker, Sports, Table Games",30,Medium
+613,39,Ohio,62262,High-Value,2025-07-04,4225.82,14,100.0,"Bingo, Table Games",44,Medium
+614,53,Oklahoma,55826,Frequent,2023-09-30,1077.5,25,46.4,"Poker, Bingo",22,Low
+615,65,Alabama,53913,Casual,2025-11-25,182.97,10,64.5,"Slots, Sports",24,Low
+616,32,Indiana,62743,Frequent,2024-08-04,4280.04,1,110.7,"Bingo, Table Games, Slots",64,High
+617,48,Arizona,69056,Frequent,2024-01-18,1784.72,5,107.3,Table Games,23,Low
+618,70,Kansas,64124,VIP,2025-06-22,1508.51,19,110.6,"Slots, Sports, Table Games",32,Medium
+619,50,Hawaii,84857,VIP,2024-02-06,4130.27,23,99.2,Bingo,42,Medium
+620,38,South Dakota,66143,High-Value,2025-07-04,196.48,26,14.0,Sports,8,Low
+621,75,Michigan,63498,Casual,2026-05-16,4087.54,14,105.0,Bingo,64,High
+622,59,Alabama,53913,Frequent,2025-10-16,3889.32,13,65.3,"Bingo, Table Games",21,Low
+623,51,Maryland,90203,High-Value,2025-11-28,3491.87,5,116.7,"Bingo, Slots, Poker",31,Medium
+624,37,Nebraska,66817,Frequent,2026-01-24,3933.98,5,14.5,"Slots, Poker, Table Games",34,Medium
+625,44,Colorado,82254,Regular,2024-11-17,2514.1,25,92.6,"Bingo, Table Games",42,Medium
+626,44,New Mexico,53992,VIP,2025-05-31,3264.72,7,119.7,"Table Games, Bingo, Slots",47,Medium
+627,68,Kentucky,55573,VIP,2026-02-19,2156.03,22,15.3,"Poker, Bingo, Table Games",64,High
+628,31,Michigan,63498,Casual,2025-09-05,1610.48,20,93.5,Sports,25,Low
+629,71,Rhode Island,74008,Regular,2025-05-06,4950.89,15,55.7,Table Games,54,Medium
+630,42,Texas,66963,Casual,2025-11-11,788.4,24,17.9,Table Games,17,Low
+631,28,Rhode Island,74008,Casual,2025-06-05,4345.07,27,44.5,Sports,29,Low
+632,49,Nevada,66274,VIP,2024-03-17,123.51,7,29.4,"Bingo, Sports, Poker",23,Low
+633,58,New Jersey,89296,Casual,2025-07-20,3652.32,5,48.3,"Bingo, Slots, Table Games",52,Medium
+634,22,Georgia,66559,VIP,2025-06-12,1427.23,26,36.2,"Slots, Bingo",42,Medium
+635,61,Mississippi,48716,Frequent,2024-08-19,1363.84,28,104.4,Sports,59,Medium
+636,43,South Dakota,66143,Casual,2024-08-01,1163.53,13,108.9,"Bingo, Slots",21,Low
+637,31,Hawaii,84857,Casual,2026-03-30,2508.25,15,9.6,"Sports, Bingo, Table Games",37,Medium
+638,66,Missouri,61847,Frequent,2024-09-16,793.46,12,45.9,"Table Games, Sports",26,Low
+639,22,Alaska,77845,Casual,2025-09-30,3132.7,29,113.6,"Table Games, Bingo",47,Medium
+640,44,Massachusetts,89645,High-Value,2025-08-04,3288.09,3,64.9,"Bingo, Table Games, Poker",63,High
+641,55,Iowa,65600,VIP,2026-03-13,772.22,10,42.9,"Table Games, Bingo, Sports",19,Low
+642,56,District of Columbia,90088,Regular,2024-07-19,2711.36,26,40.5,"Bingo, Table Games, Poker",26,Low
+643,28,Wisconsin,67125,Regular,2024-09-12,3284.6,19,41.5,"Bingo, Slots, Poker",49,Medium
+644,72,Maryland,90203,Frequent,2025-05-27,4399.39,24,106.2,"Poker, Sports",35,Medium
+645,66,Nevada,66274,Frequent,2023-11-11,4669.5,29,22.5,Slots,55,Medium
+646,30,District of Columbia,90088,Frequent,2024-09-29,140.73,20,74.6,"Table Games, Bingo, Slots",9,Low
+647,20,Texas,66963,High-Value,2024-07-12,1802.71,23,20.4,"Poker, Sports, Slots",44,Medium
+648,50,Mississippi,48716,Regular,2024-09-08,2374.5,6,8.7,Sports,46,Medium
+649,33,Montana,63249,Regular,2024-12-16,3714.41,7,12.6,"Bingo, Poker",54,Medium
+650,39,Utah,79449,High-Value,2024-11-21,4335.21,29,51.6,Bingo,27,Low
+651,71,Washington,84247,VIP,2025-10-30,1908.07,11,113.0,"Bingo, Slots, Sports",32,Medium
+652,47,Connecticut,83771,Regular,2023-11-16,2289.93,29,64.7,"Slots, Poker",21,Low
+653,67,North Carolina,61972,Frequent,2024-02-13,3156.94,2,55.5,"Sports, Poker",61,High
+654,46,Georgia,66559,VIP,2024-03-04,1479.15,30,108.9,"Poker, Slots",6,Low
+655,51,Virginia,80963,VIP,2024-07-07,574.73,25,20.6,"Sports, Poker",8,Low
+656,30,Puerto Rico,22237,Regular,2025-02-28,2273.87,29,106.5,Sports,52,Medium
+657,63,Maryland,90203,Regular,2026-06-26,3246.4,23,87.6,Slots,60,High
+658,64,Delaware,71091,VIP,2024-03-07,2252.5,12,86.3,"Bingo, Table Games, Poker",37,Medium
+659,43,Ohio,62262,Frequent,2024-06-10,229.09,6,70.0,"Table Games, Bingo, Slots",29,Low
+660,68,Hawaii,84857,Frequent,2023-10-21,3563.12,14,89.0,"Sports, Table Games",44,Medium
+661,27,Delaware,71091,Frequent,2025-04-18,4802.57,1,6.4,"Poker, Slots",59,Medium
+662,75,Pennsylvania,68957,High-Value,2025-04-07,2472.4,7,57.2,"Slots, Bingo",63,High
+663,75,Iowa,65600,VIP,2024-12-09,2741.23,20,99.3,Slots,55,Medium
+664,28,Hawaii,84857,Regular,2025-11-02,284.77,12,103.2,"Bingo, Sports, Table Games",0,Low
+665,22,Colorado,82254,Frequent,2025-07-06,553.35,6,75.3,"Bingo, Table Games, Poker",20,Low
+666,56,Washington,84247,Frequent,2025-04-19,1807.34,2,42.1,"Slots, Poker",27,Low
+667,23,Ohio,62262,Frequent,2023-10-18,1471.24,5,42.9,"Bingo, Table Games",33,Medium
+668,32,Utah,79449,VIP,2024-05-30,3064.15,4,118.5,"Bingo, Sports",58,Medium
+669,57,Nebraska,66817,VIP,2025-04-26,4240.51,9,119.4,"Table Games, Poker",46,Medium
+670,65,North Carolina,61972,Regular,2025-03-10,3162.97,16,106.6,Sports,60,High
+671,19,Idaho,66474,Casual,2026-01-06,599.85,15,89.8,Bingo,25,Low
+672,45,Montana,63249,Regular,2026-06-28,237.01,12,6.3,Sports,7,Low
+673,69,Kansas,64124,VIP,2023-08-13,348.5,10,42.3,Slots,21,Low
+674,40,Texas,66963,VIP,2025-12-24,1713.39,24,115.4,Table Games,23,Low
+675,72,Massachusetts,89645,High-Value,2025-02-23,1696.3,22,96.7,"Table Games, Poker, Slots",35,Medium
+676,48,South Carolina,59318,Frequent,2025-07-23,4461.37,18,58.2,"Slots, Sports",48,Medium
+677,65,Oklahoma,55826,Casual,2023-07-23,3394.21,18,29.0,"Sports, Bingo, Slots",52,Medium
+678,36,Florida,63062,VIP,2025-01-10,4205.29,11,101.9,"Bingo, Poker, Slots",32,Medium
+679,26,Pennsylvania,68957,Frequent,2024-10-19,4324.32,25,86.6,"Poker, Slots",29,Low
+680,75,New Mexico,53992,Frequent,2025-03-10,1195.83,15,29.9,"Table Games, Slots",46,Medium
+681,69,Minnesota,77720,Casual,2025-04-24,196.6,7,56.0,Poker,44,Medium
+682,28,New York,74314,VIP,2025-10-27,959.16,30,40.7,"Table Games, Slots",5,Low
+683,62,North Carolina,61972,Casual,2025-11-08,4963.67,7,57.8,"Bingo, Slots, Poker",68,High
+684,21,Maine,64767,Casual,2026-02-05,3438.39,20,43.3,Slots,62,High
+685,68,North Carolina,61972,VIP,2024-06-20,3298.33,10,92.2,"Table Games, Sports, Slots",35,Medium
+686,37,Idaho,66474,High-Value,2025-08-10,1390.48,11,82.2,"Table Games, Bingo",29,Low
+687,26,Kentucky,55573,VIP,2024-06-18,86.13,20,16.8,"Sports, Bingo, Table Games",7,Low
+688,64,Florida,63062,Regular,2024-09-09,4021.97,19,13.2,"Sports, Poker, Slots",42,Medium
+689,20,District of Columbia,90088,Casual,2025-05-21,2358.97,22,49.1,Poker,36,Medium
+690,30,Missouri,61847,High-Value,2025-08-06,3526.34,29,75.9,"Sports, Table Games",38,Medium
+691,67,Vermont,72431,High-Value,2023-08-28,3357.64,18,70.3,Poker,37,Medium
+692,48,Connecticut,83771,High-Value,2025-03-09,1558.85,21,59.1,Table Games,27,Low
+693,35,Rhode Island,74008,Frequent,2024-12-17,4565.18,13,95.7,"Poker, Bingo",25,Low
+694,23,Puerto Rico,22237,High-Value,2026-05-18,2381.92,12,102.3,"Sports, Table Games",60,High
+695,25,New York,74314,Casual,2026-06-03,2034.37,23,42.5,"Slots, Sports, Poker",45,Medium
+696,44,New Hampshire,88465,Regular,2025-04-02,2956.77,8,68.0,"Poker, Slots",49,Medium
+697,32,Massachusetts,89645,High-Value,2024-03-26,4071.44,19,70.2,"Bingo, Table Games",33,Medium
+698,61,Hawaii,84857,VIP,2025-07-09,3351.33,24,101.2,Bingo,64,High
+699,48,Pennsylvania,68957,High-Value,2024-01-28,1633.64,4,25.3,"Slots, Bingo",51,Medium
+700,71,Texas,66963,Frequent,2026-03-06,2986.06,27,61.8,"Slots, Bingo, Poker",47,Medium
+701,75,District of Columbia,90088,Casual,2025-10-20,2908.03,25,92.1,"Table Games, Poker, Sports",55,Medium
+702,43,Louisiana,52087,Regular,2023-08-24,3081.71,15,83.4,"Sports, Bingo",26,Low
+703,64,Nebraska,66817,VIP,2025-03-17,4913.08,12,5.9,"Poker, Table Games, Bingo",37,Medium
+704,42,Arkansas,52528,VIP,2026-01-18,4506.37,2,99.4,"Slots, Sports",40,Medium
+705,34,Puerto Rico,22237,Frequent,2025-12-06,2164.26,19,86.9,"Poker, Bingo",42,Medium
+706,32,North Dakota,66519,Regular,2026-05-08,3315.81,16,68.9,"Poker, Table Games",24,Low
+707,74,Louisiana,52087,Casual,2023-08-25,3353.63,5,79.6,Poker,45,Medium
+708,46,Tennessee,59695,Regular,2023-11-21,4875.13,5,78.9,"Poker, Bingo",32,Medium
+709,30,Rhode Island,74008,High-Value,2026-04-07,2277.43,14,49.2,Table Games,37,Medium
+710,57,Nebraska,66817,Regular,2025-05-09,47.08,16,86.9,"Poker, Sports",17,Low
+711,21,Arizona,69056,Casual,2024-02-09,2845.07,23,71.7,"Slots, Table Games, Sports",46,Medium
+712,52,Virginia,80963,Frequent,2025-06-30,4918.06,25,58.5,Bingo,44,Medium
+713,24,Rhode Island,74008,Casual,2024-04-21,1233.7,21,83.7,"Bingo, Sports, Poker",43,Medium
+714,40,Arkansas,52528,High-Value,2023-09-30,2679.82,1,64.0,"Bingo, Sports",55,Medium
+715,41,Montana,63249,Frequent,2024-08-21,4803.3,26,24.3,"Bingo, Sports, Poker",29,Low
+716,55,Wyoming,65204,VIP,2025-02-21,1309.61,21,24.4,Sports,20,Low
+717,66,Alaska,77845,Casual,2024-12-03,3125.34,10,19.6,Sports,50,Medium
+718,27,Kansas,64124,Frequent,2024-06-06,3082.83,9,6.6,Bingo,57,Medium
+719,56,Hawaii,84857,Frequent,2025-06-19,3697.45,22,97.9,"Table Games, Poker",34,Medium
+720,70,Hawaii,84857,Casual,2024-12-02,2641.67,2,116.2,"Table Games, Poker, Bingo",65,High
+721,43,Wisconsin,67125,Regular,2024-12-19,1197.36,15,29.2,"Sports, Slots, Bingo",28,Low
+722,67,Kansas,64124,High-Value,2025-02-21,4099.46,2,50.9,"Poker, Table Games",60,High
+723,62,Mississippi,48716,Regular,2024-09-18,3530.98,16,66.0,"Slots, Sports",53,Medium
+724,47,Alaska,77845,VIP,2025-04-28,1916.2,11,83.5,Slots,35,Medium
+725,59,North Dakota,66519,VIP,2024-08-08,1775.6,28,110.6,"Sports, Bingo",18,Low
+726,70,Kentucky,55573,High-Value,2023-11-18,500.4,21,58.0,"Table Games, Bingo, Sports",23,Low
+727,62,Massachusetts,89645,VIP,2025-07-13,3454.49,6,6.2,Slots,55,Medium
+728,45,Alabama,53913,High-Value,2023-08-13,497.52,4,45.4,"Sports, Bingo, Slots",31,Medium
+729,20,Arizona,69056,VIP,2025-10-28,3100.79,2,80.5,Bingo,85,High
+730,26,South Carolina,59318,VIP,2023-10-02,3543.29,4,19.9,"Bingo, Table Games, Slots",42,Medium
+731,30,Utah,79449,Casual,2025-01-07,1274.15,15,78.5,"Poker, Sports",26,Low
+732,29,Kansas,64124,Casual,2024-06-26,3905.85,9,49.0,"Slots, Sports",54,Medium
+733,30,Kansas,64124,Regular,2026-04-18,2208.47,16,75.2,Poker,49,Medium
+734,28,Connecticut,83771,VIP,2023-10-28,2707.75,14,79.0,"Sports, Slots",26,Low
+735,23,Arizona,69056,High-Value,2026-04-21,361.36,24,7.2,"Table Games, Slots",13,Low
+736,61,Arizona,69056,Frequent,2023-09-14,1958.51,5,109.0,"Slots, Poker, Table Games",52,Medium
+737,44,Nebraska,66817,Casual,2023-08-31,4221.81,25,67.1,Poker,45,Medium
+738,71,Utah,79449,VIP,2024-08-01,3901.35,4,112.5,"Sports, Bingo",73,High
+739,22,Missouri,61847,Frequent,2024-05-18,3165.04,21,66.5,"Slots, Poker",37,Medium
+740,68,West Virginia,51248,VIP,2023-08-14,1456.89,7,9.5,"Table Games, Sports",35,Medium
+741,43,Utah,79449,Frequent,2026-03-05,4483.34,21,60.9,"Poker, Table Games, Slots",42,Medium
+742,31,Arizona,69056,High-Value,2024-03-06,136.57,19,49.7,"Sports, Poker, Bingo",0,Low
+743,47,Alaska,77845,Frequent,2024-07-18,4833.2,1,11.4,"Slots, Poker, Bingo",41,Medium
+744,70,Illinois,72205,VIP,2024-01-26,3272.71,17,22.1,"Table Games, Slots, Poker",49,Medium
+745,28,Washington,84247,VIP,2025-07-18,2449.58,1,10.3,"Table Games, Slots, Poker",55,Medium
+746,22,South Carolina,59318,Casual,2026-05-18,4524.27,27,57.5,Bingo,60,High
+747,71,California,84907,VIP,2024-01-07,4089.18,4,96.9,Slots,70,High
+748,31,Alaska,77845,High-Value,2025-12-06,2136.8,26,42.3,"Bingo, Table Games, Poker",46,Medium
+749,32,Wyoming,65204,Frequent,2024-06-16,3823.5,19,12.3,"Table Games, Poker",25,Low
+750,63,Georgia,66559,Regular,2025-07-05,1855.94,6,111.5,Table Games,44,Medium
+751,69,Connecticut,83771,Regular,2026-07-04,4238.36,20,6.8,"Slots, Bingo",47,Medium
+752,30,Alabama,53913,VIP,2024-08-15,4631.42,23,107.0,"Poker, Table Games",40,Medium
+753,28,Illinois,72205,High-Value,2025-02-06,3202.73,17,32.5,Bingo,34,Medium
+754,21,Utah,79449,VIP,2024-03-30,2985.4,23,114.3,"Sports, Bingo, Table Games",50,Medium
+755,54,Alabama,53913,Casual,2026-02-09,1185.84,4,76.2,"Bingo, Table Games, Poker",41,Medium
+756,59,Wisconsin,67125,Regular,2026-02-11,3300.04,9,18.0,Poker,31,Medium
+757,30,New Mexico,53992,Casual,2024-01-07,807.2,30,79.2,"Table Games, Poker",0,Low
+758,40,Kansas,64124,High-Value,2024-03-24,3087.93,29,10.0,"Slots, Table Games, Bingo",44,Medium
+759,20,Wyoming,65204,Regular,2024-11-08,2430.46,4,88.0,"Bingo, Sports, Table Games",57,Medium
+760,66,Idaho,66474,Casual,2023-12-28,3387.49,11,42.5,Table Games,42,Medium
+761,45,Washington,84247,Regular,2025-12-28,4350.73,13,13.5,"Poker, Slots, Table Games",48,Medium
+762,32,Florida,63062,High-Value,2023-08-22,4640.16,15,48.0,"Table Games, Sports",25,Low
+763,31,Kentucky,55573,VIP,2024-11-09,1686.1,2,11.9,Slots,47,Medium
+764,48,New Hampshire,88465,Regular,2025-12-24,2096.94,25,106.9,"Table Games, Bingo, Sports",30,Medium
+765,73,Ohio,62262,VIP,2026-05-31,1156.21,14,61.3,Bingo,47,Medium
+766,72,New Jersey,89296,High-Value,2025-02-16,2319.19,1,89.7,Table Games,78,High
+767,46,Maryland,90203,VIP,2025-03-21,2901.54,29,113.8,"Slots, Poker, Bingo",49,Medium
+768,49,Arizona,69056,High-Value,2024-05-17,3670.05,17,66.1,"Slots, Poker",21,Low
+769,34,New Mexico,53992,High-Value,2023-11-09,424.63,25,114.2,Sports,0,Low
+770,34,Louisiana,52087,High-Value,2026-01-18,3241.72,3,81.9,Poker,40,Medium
+771,66,Oklahoma,55826,Regular,2026-06-20,2922.46,15,105.5,"Table Games, Sports",49,Medium
+772,48,South Carolina,59318,Casual,2026-03-14,3522.47,1,49.3,"Sports, Slots, Table Games",67,High
+773,67,Nebraska,66817,VIP,2024-07-25,1356.25,20,96.4,"Slots, Sports, Poker",37,Medium
+774,51,Arkansas,52528,Casual,2023-12-19,4727.16,22,17.8,"Poker, Slots",31,Medium
+775,42,Minnesota,77720,Casual,2026-07-01,884.58,18,69.5,Table Games,12,Low
+776,34,Massachusetts,89645,VIP,2024-10-24,2702.77,21,105.2,"Table Games, Bingo, Poker",35,Medium
+777,36,Michigan,63498,Casual,2026-06-10,2522.79,14,12.3,"Poker, Bingo",28,Low
+778,52,New York,74314,VIP,2026-01-31,4149.5,16,83.0,"Sports, Poker, Bingo",42,Medium
+779,70,Minnesota,77720,Casual,2024-01-18,3369.8,23,26.7,"Slots, Bingo",60,High
+780,30,Missouri,61847,Regular,2025-12-09,1448.98,3,36.7,"Table Games, Poker, Slots",28,Low
+781,52,Illinois,72205,High-Value,2023-09-15,4761.0,1,116.5,"Table Games, Poker, Bingo",49,Medium
+782,47,Montana,63249,Regular,2025-01-03,3691.17,1,12.2,Bingo,49,Medium
+783,40,South Dakota,66143,Frequent,2025-10-18,2064.34,11,60.9,"Bingo, Poker, Table Games",40,Medium
+784,55,Maine,64767,Regular,2025-05-09,668.45,26,95.8,Poker,0,Low
+785,37,Minnesota,77720,Frequent,2026-05-06,3851.05,2,37.7,Bingo,44,Medium
+786,64,Georgia,66559,Regular,2025-02-08,2681.23,6,23.5,Slots,50,Medium
+787,55,Maryland,90203,Regular,2023-10-29,641.1,9,28.6,"Slots, Sports, Table Games",11,Low
+788,42,Florida,63062,Frequent,2025-09-06,2247.66,6,19.0,Poker,47,Medium
+789,68,New Mexico,53992,Frequent,2026-04-14,735.47,15,22.9,"Bingo, Sports, Poker",34,Medium
+790,37,Vermont,72431,VIP,2024-12-25,2374.81,10,81.7,"Poker, Sports, Bingo",50,Medium
+791,65,Delaware,71091,VIP,2023-08-02,2400.12,2,18.4,Poker,59,Medium
+792,72,Rhode Island,74008,Frequent,2025-04-26,1109.62,12,11.3,"Table Games, Bingo, Poker",22,Low
+793,20,Idaho,66474,Casual,2025-08-13,427.11,28,117.2,"Table Games, Poker",19,Low
+794,57,Maryland,90203,Frequent,2023-12-24,3029.34,2,50.7,"Poker, Sports, Table Games",69,High
+795,19,Minnesota,77720,High-Value,2025-05-17,1430.41,12,105.5,Table Games,29,Low
+796,75,Virginia,80963,High-Value,2025-01-26,2226.66,14,38.2,"Poker, Bingo, Slots",60,High
+797,57,Oregon,71562,High-Value,2026-03-27,439.53,7,118.7,"Sports, Slots, Bingo",9,Low
+798,43,West Virginia,51248,Frequent,2025-06-27,451.36,14,52.7,"Poker, Table Games, Slots",10,Low
+799,72,Hawaii,84857,Casual,2024-03-07,1915.03,18,99.6,"Bingo, Sports",35,Medium
+800,54,New Mexico,53992,Casual,2025-05-20,3701.88,8,22.7,"Poker, Slots",30,Medium
+801,61,South Dakota,66143,High-Value,2024-04-12,4464.51,14,109.3,"Table Games, Slots, Poker",40,Medium
+802,36,West Virginia,51248,Frequent,2025-10-01,2470.32,3,71.8,"Poker, Sports, Bingo",59,Medium
+803,49,Texas,66963,Frequent,2026-04-19,4871.55,27,63.9,"Slots, Sports, Bingo",23,Low
+804,22,Oregon,71562,Regular,2024-09-05,739.22,15,46.1,Sports,33,Medium
+805,45,Minnesota,77720,Frequent,2026-02-24,3184.87,12,38.5,"Slots, Table Games, Sports",21,Low
+806,67,Hawaii,84857,VIP,2025-10-27,481.6,25,42.1,"Sports, Bingo",10,Low
+807,63,Texas,66963,VIP,2025-08-03,3444.85,4,45.4,Slots,72,High
+808,52,District of Columbia,90088,High-Value,2025-07-05,1414.27,25,44.1,Slots,20,Low
+809,28,Illinois,72205,VIP,2025-05-20,2521.88,27,75.5,"Bingo, Slots, Table Games",26,Low
+810,23,New Hampshire,88465,Casual,2026-01-19,591.66,5,60.1,"Sports, Table Games",44,Medium
+811,75,Nevada,66274,Frequent,2024-09-02,4938.03,17,24.8,"Slots, Bingo",59,Medium
+812,27,Indiana,62743,Regular,2024-11-25,4285.51,5,40.4,Table Games,52,Medium
+813,46,Colorado,82254,Casual,2024-07-29,3457.18,26,7.2,"Poker, Slots",23,Low
+814,25,Idaho,66474,VIP,2023-11-25,173.64,22,11.8,Sports,6,Low
+815,23,Arizona,69056,Casual,2024-09-19,1515.21,1,95.0,"Table Games, Bingo, Slots",64,High
+816,41,Tennessee,59695,Frequent,2025-06-13,156.0,5,114.1,"Sports, Table Games",27,Low
+817,68,New York,74314,VIP,2024-07-26,3645.48,8,12.9,"Slots, Table Games, Sports",61,High
+818,37,Idaho,66474,Casual,2025-07-04,867.15,25,117.0,Table Games,7,Low
+819,73,New York,74314,VIP,2025-12-15,3541.7,12,26.3,"Slots, Table Games, Poker",57,Medium
+820,46,Mississippi,48716,Casual,2026-02-16,1079.23,8,92.6,"Slots, Poker",38,Medium
+821,52,Delaware,71091,Frequent,2026-05-16,688.2,25,69.1,Slots,1,Low
+822,50,Maryland,90203,VIP,2025-02-21,587.46,10,89.7,"Poker, Table Games, Sports",4,Low
+823,37,Montana,63249,Casual,2024-12-17,4924.96,14,107.9,"Sports, Table Games",26,Low
+824,62,Alabama,53913,High-Value,2023-08-27,2463.33,4,65.1,"Slots, Bingo, Poker",67,High
+825,44,Missouri,61847,Regular,2025-08-19,3478.24,4,12.4,Sports,63,High
+826,57,Idaho,66474,Regular,2024-11-29,4221.71,13,101.4,"Poker, Sports, Bingo",23,Low
+827,56,Wisconsin,67125,High-Value,2024-04-21,2972.31,25,46.0,"Bingo, Poker, Table Games",45,Medium
+828,36,New York,74314,Casual,2025-08-09,745.4,15,33.8,"Table Games, Bingo",0,Low
+829,25,Puerto Rico,22237,High-Value,2024-06-07,3691.61,27,83.0,Poker,32,Medium
+830,62,Pennsylvania,68957,VIP,2025-01-15,1641.51,10,16.1,Bingo,39,Medium
+831,50,Wisconsin,67125,High-Value,2024-08-18,3965.73,7,61.4,"Bingo, Sports",39,Medium
+832,74,Alaska,77845,Casual,2024-12-23,2707.24,1,118.9,Poker,85,High
+833,39,Nevada,66274,Casual,2024-09-20,4265.84,15,8.8,"Sports, Table Games, Poker",34,Medium
+834,27,Nebraska,66817,Casual,2026-01-25,1569.17,13,70.4,"Bingo, Poker",20,Low
+835,54,New Jersey,89296,High-Value,2026-07-07,4273.21,17,35.3,"Poker, Sports, Table Games",21,Low
+836,22,Maryland,90203,Frequent,2024-09-15,150.45,2,45.1,"Bingo, Slots, Sports",29,Low
+837,43,Massachusetts,89645,High-Value,2025-11-23,495.78,12,45.4,"Table Games, Bingo, Slots",1,Low
+838,38,South Dakota,66143,Casual,2023-07-29,2966.73,30,104.9,Sports,42,Medium
+839,20,Georgia,66559,High-Value,2025-09-23,2696.7,2,70.3,"Sports, Slots",69,High
+840,49,Utah,79449,VIP,2024-05-05,2944.07,11,49.9,"Slots, Poker, Bingo",32,Medium
+841,62,Utah,79449,Frequent,2023-11-23,1037.48,16,24.2,"Sports, Poker",36,Medium
+842,50,Idaho,66474,VIP,2024-07-22,3180.87,26,29.6,"Slots, Sports",22,Low
+843,44,Oklahoma,55826,Casual,2025-04-05,4024.97,20,87.5,"Slots, Sports, Table Games",43,Medium
+844,55,California,84907,Regular,2025-08-10,4007.92,16,44.9,Sports,33,Medium
+845,70,New York,74314,Frequent,2025-11-22,1506.55,22,28.0,"Sports, Poker",37,Medium
+846,67,Tennessee,59695,VIP,2024-07-21,2742.34,29,104.2,"Poker, Table Games, Sports",35,Medium
+847,48,Washington,84247,VIP,2026-06-20,1347.0,21,103.1,"Bingo, Slots",22,Low
+848,31,North Carolina,61972,Regular,2025-07-22,1827.73,5,90.8,"Poker, Bingo",22,Low
+849,74,Maryland,90203,Regular,2026-04-12,4152.77,3,102.3,"Sports, Table Games",75,High
+850,62,Kansas,64124,Casual,2025-08-14,3010.15,13,22.2,Table Games,42,Medium
+851,71,Alaska,77845,High-Value,2025-06-09,1559.6,16,53.5,Table Games,37,Medium
+852,36,Georgia,66559,Frequent,2023-08-09,690.79,9,80.7,Slots,25,Low
+853,50,Virginia,80963,Casual,2023-12-05,3913.35,2,41.1,"Slots, Poker",67,High
+854,61,Minnesota,77720,Regular,2024-10-13,3290.58,3,32.1,"Bingo, Slots, Sports",67,High
+855,72,Tennessee,59695,VIP,2024-06-22,2906.29,25,34.0,Table Games,64,High
+856,26,Pennsylvania,68957,VIP,2025-04-02,3868.22,11,89.8,"Table Games, Poker, Slots",30,Medium
+857,25,Florida,63062,High-Value,2026-06-22,884.02,9,34.2,"Slots, Poker, Sports",14,Low
+858,63,Minnesota,77720,High-Value,2024-07-25,4744.07,11,59.6,Sports,52,Medium
+859,28,Wyoming,65204,Frequent,2024-10-31,1821.36,23,7.4,"Slots, Bingo, Sports",16,Low
+860,61,Wyoming,65204,Frequent,2026-05-10,1205.98,18,78.5,"Sports, Slots, Bingo",32,Medium
+861,73,Iowa,65600,High-Value,2026-01-02,2217.59,1,111.7,"Sports, Slots",84,High
+862,34,West Virginia,51248,Regular,2025-02-06,1494.14,28,110.3,"Sports, Poker, Slots",33,Medium
+863,74,Kentucky,55573,High-Value,2025-07-18,409.67,25,59.2,"Sports, Poker",35,Medium
+864,71,Connecticut,83771,Casual,2025-11-19,810.11,9,45.5,"Bingo, Sports, Table Games",31,Medium
+865,20,Utah,79449,Regular,2025-10-15,3812.26,21,77.5,"Table Games, Slots, Bingo",55,Medium
+866,59,Idaho,66474,Casual,2024-12-29,1534.68,19,23.1,"Table Games, Poker, Bingo",7,Low
+867,49,Nevada,66274,Regular,2025-05-04,4368.79,5,84.1,"Sports, Table Games",38,Medium
+868,45,Colorado,82254,High-Value,2025-11-14,1844.32,13,113.6,"Table Games, Slots, Poker",33,Medium
+869,60,Ohio,62262,Casual,2024-12-08,3063.9,8,117.0,Sports,59,Medium
+870,73,Utah,79449,High-Value,2025-01-10,852.09,13,74.0,Slots,24,Low
+871,29,Minnesota,77720,VIP,2026-07-09,4736.75,4,55.0,"Poker, Slots",40,Medium
+872,64,Indiana,62743,Frequent,2025-06-17,1023.7,28,38.1,"Poker, Table Games",46,Medium
+873,73,Nebraska,66817,Frequent,2024-09-06,1040.96,7,88.6,Poker,56,Medium
+874,45,Hawaii,84857,Frequent,2024-11-01,3964.39,1,32.1,"Table Games, Sports",49,Medium
+875,62,Oregon,71562,High-Value,2024-08-07,3239.71,3,20.3,"Poker, Table Games",55,Medium
+876,43,Vermont,72431,Frequent,2024-07-06,3545.18,24,13.4,"Slots, Bingo, Table Games",39,Medium
+877,49,Iowa,65600,VIP,2024-01-17,4542.05,20,86.6,Slots,50,Medium
+878,51,Kansas,64124,Frequent,2024-05-08,3102.09,10,20.2,"Slots, Table Games, Poker",32,Medium
+879,51,Georgia,66559,High-Value,2024-11-15,2469.27,11,20.2,"Bingo, Poker",48,Medium
+880,35,Florida,63062,High-Value,2024-01-15,593.04,2,105.2,"Sports, Poker",14,Low
+881,75,Louisiana,52087,Frequent,2025-10-23,1323.45,27,64.5,"Table Games, Sports",44,Medium
+882,50,Washington,84247,High-Value,2026-06-20,3820.74,5,11.1,Slots,47,Medium
+883,30,Indiana,62743,High-Value,2024-04-26,188.95,9,55.2,"Slots, Poker",5,Low
+884,64,Michigan,63498,Casual,2024-05-06,2808.66,15,102.3,Slots,50,Medium
+885,24,Michigan,63498,Regular,2024-06-14,1026.63,10,91.2,"Bingo, Table Games",25,Low
+886,19,Oregon,71562,High-Value,2025-08-04,2634.82,19,110.8,Poker,40,Medium
+887,25,Texas,66963,Casual,2024-09-15,4437.96,1,50.3,"Slots, Sports, Bingo",49,Medium
+888,24,Puerto Rico,22237,High-Value,2026-01-14,2306.56,23,57.2,"Bingo, Slots",66,High
+889,21,Massachusetts,89645,VIP,2025-10-05,3284.3,15,19.9,Sports,45,Medium
+890,70,Maryland,90203,VIP,2026-01-26,287.12,3,48.9,"Sports, Table Games",42,Medium
+891,68,Iowa,65600,Regular,2024-09-25,4328.92,3,23.7,"Sports, Table Games",55,Medium
+892,38,Delaware,71091,Frequent,2023-12-17,2459.32,14,108.9,"Table Games, Sports, Poker",43,Medium
+893,72,Connecticut,83771,High-Value,2024-05-10,1843.61,7,106.8,"Sports, Poker",45,Medium
+894,67,Colorado,82254,Regular,2024-10-16,2118.46,12,54.9,"Slots, Bingo",54,Medium
+895,40,New York,74314,Regular,2024-07-01,4866.63,22,112.0,"Bingo, Slots, Table Games",27,Low
+896,46,New Hampshire,88465,Frequent,2025-01-24,405.12,26,22.1,Sports,5,Low
+897,52,Iowa,65600,VIP,2024-04-17,2144.38,19,13.8,Bingo,21,Low
+898,51,Connecticut,83771,VIP,2024-10-25,2130.32,4,98.5,"Sports, Slots",54,Medium
+899,51,Wisconsin,67125,High-Value,2023-08-04,91.18,24,25.6,Poker,11,Low
+900,24,Arizona,69056,Frequent,2025-10-20,2087.1,23,72.5,"Poker, Sports",44,Medium
+901,74,Massachusetts,89645,Casual,2024-01-26,4051.93,7,90.9,"Sports, Slots, Table Games",50,Medium
+902,20,North Dakota,66519,Regular,2024-09-12,39.18,4,80.4,"Poker, Bingo",25,Low
+903,58,Maine,64767,High-Value,2023-09-22,4067.53,20,97.5,Table Games,31,Medium
+904,19,District of Columbia,90088,Regular,2023-10-06,962.1,27,103.8,Poker,5,Low
+905,28,South Dakota,66143,VIP,2025-11-19,3252.2,14,27.0,"Poker, Table Games",46,Medium
+906,46,New Jersey,89296,Regular,2024-10-09,118.87,6,90.0,"Poker, Bingo",28,Low
+907,74,Puerto Rico,22237,Frequent,2026-07-01,2253.09,8,70.5,"Slots, Sports",61,High
+908,25,Alabama,53913,High-Value,2024-01-26,3155.75,23,102.6,"Bingo, Sports, Slots",33,Medium
+909,44,New Mexico,53992,VIP,2026-03-30,2435.64,19,112.6,"Table Games, Slots",43,Medium
+910,20,North Carolina,61972,Casual,2025-08-14,2115.8,11,35.8,"Poker, Bingo, Slots",52,Medium
+911,58,New Mexico,53992,High-Value,2023-12-20,4695.43,12,7.4,"Table Games, Poker",34,Medium
+912,47,Michigan,63498,Frequent,2023-08-02,1168.19,8,111.0,"Poker, Table Games, Bingo",33,Medium
+913,64,Virginia,80963,Frequent,2025-12-21,1957.95,14,96.5,Bingo,46,Medium
+914,37,Illinois,72205,High-Value,2024-09-27,3456.58,3,19.8,Table Games,61,High
+915,50,Pennsylvania,68957,High-Value,2025-07-12,513.51,14,39.9,Bingo,20,Low
+916,20,Arkansas,52528,Regular,2025-07-26,1800.35,9,25.1,"Slots, Bingo, Table Games",41,Medium
+917,26,Nebraska,66817,Regular,2025-05-28,3091.64,4,60.9,"Sports, Slots",57,Medium
+918,75,Wisconsin,67125,VIP,2024-12-24,2789.54,29,74.5,Slots,39,Medium
+919,70,Nevada,66274,Casual,2024-04-25,2291.11,27,117.1,"Bingo, Slots, Sports",59,Medium
+920,51,Arizona,69056,Regular,2023-10-01,536.0,21,109.8,Sports,0,Low
+921,47,Vermont,72431,Casual,2024-08-09,3812.2,16,22.7,"Sports, Table Games",43,Medium
+922,73,Delaware,71091,Casual,2025-07-25,1017.43,14,33.2,"Sports, Bingo",44,Medium
+923,29,New York,74314,High-Value,2024-01-07,435.32,12,46.5,"Table Games, Bingo, Sports",12,Low
+924,69,Montana,63249,High-Value,2023-10-23,1148.63,26,110.6,"Bingo, Sports",33,Medium
+925,47,Puerto Rico,22237,VIP,2025-03-27,736.47,1,113.5,Sports,42,Medium
+926,44,Maryland,90203,Casual,2025-08-15,4909.91,6,50.2,Table Games,43,Medium
+927,22,Oklahoma,55826,VIP,2023-11-06,4888.89,23,116.9,"Poker, Sports",60,High
+928,66,Virginia,80963,Frequent,2025-12-26,1575.34,12,108.5,"Table Games, Poker, Bingo",20,Low
+929,32,South Dakota,66143,VIP,2026-03-17,4439.02,20,80.0,"Sports, Poker, Slots",45,Medium
+930,24,Maine,64767,Regular,2026-06-14,194.48,11,64.9,"Sports, Table Games, Slots",17,Low
+931,54,New York,74314,Regular,2023-10-05,1568.14,11,7.7,"Bingo, Sports, Slots",29,Low
+932,38,Wisconsin,67125,Casual,2024-03-05,3635.28,17,101.8,"Bingo, Sports",23,Low
+933,22,Delaware,71091,Frequent,2024-03-01,3785.23,4,70.8,Poker,69,High
+934,34,Massachusetts,89645,VIP,2025-12-04,4028.88,19,102.1,Sports,38,Medium
+935,37,Maine,64767,VIP,2024-10-27,3337.94,27,82.3,"Poker, Table Games, Slots",42,Medium
+936,52,Maryland,90203,Frequent,2023-11-23,2916.02,27,57.2,Poker,44,Medium
+937,24,Montana,63249,Regular,2024-08-02,470.32,14,59.8,"Slots, Sports",33,Medium
+938,52,Texas,66963,High-Value,2024-01-14,2019.74,18,105.3,"Poker, Bingo, Table Games",36,Medium
+939,50,Utah,79449,Regular,2025-11-26,3661.27,14,21.6,Poker,46,Medium
+940,48,Vermont,72431,VIP,2025-04-20,655.63,23,18.6,Poker,6,Low
+941,21,New Jersey,89296,Casual,2026-02-09,3735.02,18,74.2,"Slots, Bingo",46,Medium
+942,55,Minnesota,77720,Casual,2026-01-25,1455.06,17,47.7,"Sports, Bingo",9,Low
+943,20,New Mexico,53992,VIP,2026-02-28,3958.11,5,53.5,"Sports, Table Games",70,High
+944,71,Hawaii,84857,VIP,2024-06-28,3700.91,1,45.1,Poker,58,Medium
+945,55,New Jersey,89296,Frequent,2025-10-02,1555.41,15,94.9,"Bingo, Table Games",33,Medium
+946,27,West Virginia,51248,High-Value,2025-02-23,2528.77,15,81.7,Sports,44,Medium
+947,70,Colorado,82254,High-Value,2025-06-12,3127.6,20,31.8,"Sports, Slots",48,Medium
+948,75,Tennessee,59695,Casual,2025-05-31,2221.05,9,104.6,"Slots, Sports, Poker",65,High
+949,26,South Dakota,66143,VIP,2024-10-17,3223.13,3,67.3,Bingo,46,Medium
+950,31,North Carolina,61972,Casual,2026-01-13,3755.29,17,18.8,"Table Games, Slots, Bingo",48,Medium
+951,32,Wyoming,65204,VIP,2025-05-10,1233.98,23,56.1,"Bingo, Sports, Table Games",31,Medium
+952,21,Oregon,71562,Frequent,2024-10-30,2462.45,30,55.3,"Slots, Sports",35,Medium
+953,35,Mississippi,48716,Regular,2025-12-13,464.22,4,37.8,Sports,37,Medium
+954,24,Wisconsin,67125,Regular,2026-03-04,779.59,14,11.8,"Table Games, Slots",26,Low
+955,22,Vermont,72431,Regular,2023-10-15,1497.14,4,52.5,"Sports, Poker",50,Medium
+956,22,Delaware,71091,VIP,2026-02-15,1020.77,25,32.2,"Bingo, Poker, Slots",39,Medium
+957,22,Kentucky,55573,Casual,2023-12-15,1598.5,18,60.7,"Table Games, Slots",33,Medium
+958,54,Kentucky,55573,Regular,2024-05-31,4817.74,22,92.7,"Table Games, Sports, Poker",23,Low
+959,47,Montana,63249,Regular,2026-03-11,428.7,21,95.0,Sports,6,Low
+960,29,North Dakota,66519,High-Value,2024-06-05,3912.3,18,115.6,"Poker, Slots, Bingo",50,Medium
+961,72,New Hampshire,88465,Casual,2024-08-28,3107.44,21,11.9,"Sports, Bingo",40,Medium
+962,43,Texas,66963,Regular,2026-05-04,4996.22,27,72.3,"Sports, Slots, Poker",40,Medium
+963,53,Washington,84247,High-Value,2023-11-17,2819.78,10,85.3,Bingo,22,Low
+964,75,Kentucky,55573,Frequent,2024-03-13,2165.49,20,106.7,"Sports, Poker",51,Medium
+965,34,Kentucky,55573,Regular,2024-07-20,3314.76,11,57.9,"Sports, Slots, Bingo",30,Medium
+966,60,District of Columbia,90088,Casual,2024-04-09,4612.07,20,108.7,"Table Games, Poker, Sports",35,Medium
+967,64,Utah,79449,Casual,2025-11-17,2449.99,13,95.5,"Slots, Bingo, Sports",52,Medium
+968,62,Nevada,66274,VIP,2023-11-07,625.84,27,46.2,Slots,17,Low
+969,48,Delaware,71091,Casual,2024-03-13,1858.7,7,30.5,Sports,29,Low
+970,64,Texas,66963,VIP,2023-07-18,1795.53,3,76.9,"Table Games, Bingo, Poker",66,High
+971,21,Minnesota,77720,VIP,2025-04-08,1410.97,29,29.0,Poker,42,Medium
+972,74,Delaware,71091,Regular,2025-06-12,1393.96,17,68.5,"Bingo, Table Games, Slots",35,Medium
+973,27,Oregon,71562,VIP,2026-06-18,3732.41,5,103.4,"Sports, Table Games, Bingo",38,Medium
+974,63,Puerto Rico,22237,VIP,2026-01-21,3391.89,20,106.6,Poker,53,Medium
+975,62,South Dakota,66143,Frequent,2025-07-12,4715.94,2,54.7,"Sports, Slots",82,High
+976,52,Texas,66963,Casual,2024-10-08,2338.27,12,106.6,Slots,36,Medium
+977,45,Kentucky,55573,High-Value,2023-09-02,2666.73,11,27.4,Bingo,20,Low
+978,20,Alaska,77845,High-Value,2024-07-07,4951.42,8,115.1,Table Games,67,High
+979,40,Georgia,66559,Casual,2024-10-03,1560.92,21,8.2,"Slots, Sports",25,Low
+980,34,Kansas,64124,Frequent,2024-09-25,548.12,8,100.7,"Bingo, Table Games",30,Medium
+981,68,California,84907,Casual,2026-07-10,3003.82,15,76.9,"Slots, Bingo, Poker",59,Medium
+982,43,Arizona,69056,Casual,2025-06-18,1573.26,28,95.0,Poker,27,Low
+983,38,Arkansas,52528,Casual,2023-11-01,3057.59,14,82.9,"Slots, Sports, Table Games",22,Low
+984,25,Missouri,61847,VIP,2026-06-15,3090.34,14,95.6,"Slots, Poker, Table Games",27,Low
+985,69,New Hampshire,88465,Casual,2024-07-10,2146.25,20,44.1,"Slots, Poker, Sports",54,Medium
+986,56,Massachusetts,89645,VIP,2024-08-27,970.48,4,87.0,"Table Games, Bingo, Sports",10,Low
+987,35,New York,74314,VIP,2026-03-10,1783.4,16,56.1,Table Games,28,Low
+988,21,Alaska,77845,High-Value,2026-01-15,311.85,10,64.0,"Sports, Bingo, Poker",23,Low
+989,68,North Dakota,66519,VIP,2026-05-06,736.67,16,44.4,"Slots, Table Games",14,Low
+990,34,Arkansas,52528,Casual,2024-05-16,2540.47,27,53.5,Table Games,37,Medium
+991,31,South Carolina,59318,High-Value,2025-05-04,3928.47,11,84.9,"Bingo, Sports",26,Low
+992,55,Oregon,71562,High-Value,2024-01-08,4815.69,20,42.8,Poker,29,Low
+993,21,Wyoming,65204,Regular,2025-11-05,2484.69,30,84.7,"Bingo, Table Games",35,Medium
+994,49,Iowa,65600,High-Value,2024-06-27,3675.59,27,28.6,Slots,30,Medium
+995,19,Minnesota,77720,Casual,2026-04-15,377.92,1,21.4,"Table Games, Sports",42,Medium
+996,20,Arizona,69056,Regular,2024-03-01,1003.62,10,106.8,"Table Games, Sports, Poker",25,Low
+997,30,Iowa,65600,Frequent,2024-08-29,987.98,6,109.7,Table Games,26,Low
+998,60,Mississippi,48716,Regular,2024-02-19,3939.2,4,40.1,Sports,60,High
+999,42,Alaska,77845,VIP,2023-11-01,3307.93,17,106.4,"Slots, Bingo, Poker",45,Medium
+1000,69,District of Columbia,90088,Frequent,2023-10-14,956.31,18,41.6,"Table Games, Slots",17,Low
